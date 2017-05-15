@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - brca@localhost" uuid="9c750e00-0d6b-431d-8882-4be124628d97">
+    <database-info product="MySQL" version="5.7.16-0ubuntu0.16.04.1" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.5">
+      <schema id="1" name="brca"/>
+      <table id="2" parent="1" name="admins"/>
+      <table id="3" parent="1" name="events">
+        <comment>for all events</comment>
+      </table>
+      <table id="4" parent="1" name="participants"/>
+      <table id="5" parent="1" name="logs"/>
+      <column id="6" parent="2" name="name">
+        <data-type>text</data-type>
+      </column>
+      <column id="7" parent="2" name="entryno">
+        <data-type>text</data-type>
+      </column>
+      <column id="8" parent="2" name="position">
+        <data-type>text</data-type>
+      </column>
+      <column id="9" parent="2" name="assoc">
+        <data-type>text</data-type>
+      </column>
+      <column id="10" parent="3" name="name">
+        <data-type>text</data-type>
+      </column>
+      <column id="11" parent="3" name="description">
+        <data-type>longtext</data-type>
+      </column>
+      <column id="12" parent="3" name="level">
+        <data-type>text</data-type>
+      </column>
+      <column id="13" parent="3" name="noteams">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="14" parent="3" name="venue">
+        <data-type>text</data-type>
+      </column>
+      <column id="15" parent="3" name="audience">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="16" parent="3" name="date">
+        <data-type>date</data-type>
+      </column>
+      <column id="17" parent="3" name="createdby">
+        <data-type>text</data-type>
+      </column>
+      <column id="18" parent="4" name="name">
+        <data-type>text</data-type>
+      </column>
+      <column id="19" parent="4" name="entryno">
+        <data-type>text</data-type>
+      </column>
+      <column id="20" parent="4" name="role">
+        <data-type>text</data-type>
+      </column>
+      <column id="21" parent="4" name="event">
+        <data-type>text</data-type>
+      </column>
+      <column id="22" parent="4" name="eventID">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="23" parent="4" name="position">
+        <data-type>text</data-type>
+      </column>
+      <column id="24" parent="4" name="points">
+        <data-type>longtext</data-type>
+      </column>
+      <column id="25" parent="5" name="event">
+        <data-type>text</data-type>
+      </column>
+      <column id="26" parent="5" name="entryno">
+        <data-type>text</data-type>
+      </column>
+      <column id="27" parent="5" name="timestamp">
+        <data-type>datetime</data-type>
+      </column>
+    </database-model>
+  </data-source>
+</component>

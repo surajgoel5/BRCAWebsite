@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+#login-form {
+	margin-top:15%;
+	margin-right:5%;
+	margin-left:2%;
+	padding-bottom: 40px;
+}
+
+#login-form2 {
+	margin-top:30%;
+	margin-right:5%;
+	margin-left:2%;
+	padding-bottom: 40px;
+}
+#field{
+	min-width: 200px;
+	margin-bottom: 40px;
+}
+
+#mew{
+	min-width: 200px;
+	margin-bottom: 40px;
+}
+div.container.meh{
+	margin:0 auto;
+}
+div.navbar-header.meww{
+	padding-left: 20px;
+}
+button.right {
+	float: right;
+}
+/* home page */
+#wrapper{
+	padding-top:50px;
+}
+#centerize{
+	align-content: center;
+}
