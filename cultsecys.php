@@ -120,6 +120,8 @@
                             </li>
                             <li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+								<li><a class="open-popup-link" href="#manifesto2"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -142,6 +144,8 @@
                             <li><a href="https://www.facebook.com/ayush.rai.98229241" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail2" ><i class="fa fa-envelope-o"></i></a>
+                            </li>
+								<li><a class="open-popup-link" href="#manifesto3"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -177,6 +181,8 @@
                             </li>
                             <li><a   class="mail3" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+								<li><a class="open-popup-link" href="#manifesto4"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -201,6 +207,8 @@
                             </li>
                             <li><a   class="mail4" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+								<li><a class="open-popup-link" href="#manifesto5"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -224,6 +232,8 @@
                             </li>
                             <li><a  class="mail5" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+								<li><a class="open-popup-link" href="#manifesto6"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -245,6 +255,8 @@
                             <li><a href="https://www.facebook.com/agarwalrahulbhs" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail6" ><i class="fa fa-envelope-o"></i></a>
+                            </li>
+								<li><a class="open-popup-link" href="#manifesto7"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -268,6 +280,8 @@
                             <li><a href="https://www.facebook.com/profile.php?id=100008801765499" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail7" ><i class="fa fa-envelope-o"></i></a>
+                            </li>
+								<li><a class="open-popup-link" href="#manifesto8"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -293,6 +307,8 @@
                             </li>
                             <li><a  class="mail8" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+								<li><a class="open-popup-link" href="#manifesto9"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -317,6 +333,8 @@
                             </li>
                             <li><a  class="mail9" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+								<li><a class="open-popup-link" href="#manifesto10"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -340,6 +358,8 @@
                             </li>
                             <li><a  class="mail10" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+								<li><a class="open-popup-link" href="#manifesto11"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -361,6 +381,8 @@
                             </li>
                             <li><a  class="mail11" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+								<li><a class="open-popup-link" href="#manifesto12"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -379,6 +401,8 @@
                             <li><a href="https://www.facebook.com/profile.php?id=100001632352784" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail12" ><i class="fa fa-envelope-o"></i></a>
+                            </li>
+								<li><a class="open-popup-link" href="#manifesto13"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -400,6 +424,8 @@
                             <li><a href="https://www.facebook.com/sankalp.katiyar.54" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail13" ><i class="fa fa-envelope-o"></i></a>
+                            </li>
+								<li><a class="open-popup-link" href="#manifesto14"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -577,6 +603,22 @@
 <img src="/images/cultmanifesto/rishabh.jpg">
 </div>  
   <div id="manifesto10" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div> 
+  <div id="manifesto11" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div> 
+  <div id="manifesto12" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div> 
+  <div id="manifesto13" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div> 
+  <div id="manifesto14" class="white-popup mfp-hide " >
   hello bithes
 <img src="/images/cultmanifesto/rishabh.jpg">
 </div>    

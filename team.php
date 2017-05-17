@@ -53,8 +53,8 @@
 							<footer class="foot">
 				           <section class="color-4">
 				           <nav class="cl-effect-14">
-					          <a class="animated fadeIn slower" data-id='3' href="cultteam.php">Cultural Secretaries</a>
-				        	  <a class="animated fadeIn slower" data-id='3' href="secyteam.php">Club Secretaries</a>
+					          <a class="animated fadeIn slower" data-id='3' href="cultsecys.php">Cultural Secretaries</a>
+				        	  <a class="animated fadeIn slower" data-id='3' href="clubsecys.php">Club Secretaries</a>
 				           </nav>
 			               </section>	
 								</footer>
