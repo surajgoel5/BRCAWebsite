@@ -2,7 +2,6 @@
 @import url("font-awesome.min.css");
 
 
-
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
@@ -747,6 +746,7 @@
 			color: #fff;
 			font-size: 3em;
 			line-height: 1em;
+
 		}
 
 			#header h2 {
@@ -824,11 +824,10 @@
 		}
 
 		
-/* Nav */
+/* Nav*/
 
 	#nav {
 		position: absolute;
-
 		top: 14px;
 		left: 0;
 		width: 100%;
@@ -875,8 +874,6 @@
 				margin: -9px 0.5em 0 0.5em;
 				border-radius: 0.5em;
 				padding: 0.85em;
-
-				
 				border: solid 1px transparent;
 				-moz-transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
@@ -921,8 +918,8 @@
 		.dropotron li {
 			border-top: solid 1px rgba(128, 128, 128, 0.2);
 			color: #5b5b5b;
-			font-size: 100%;
-			
+			//font-size: 100%;
+
 		}
 
 			.dropotron li:first-child {
@@ -2010,6 +2007,99 @@ font-family: 'Droid Serif', Georgia, Times, serif;
 }
 
 .foot{
-	padding-top:120px;
+	padding-top:0px;
 }
+.cl-effect-14 a {
+	padding: 0 20px;
+	height: 45px;
+	line-height: 45px;
+}
+
+.cl-effect-14 a::before,
+.cl-effect-14 a::after {
+	position: absolute;
+	width: 45px;
+	height: 2px;
+	background: #fff;
+	content:'';
+	opacity: 0.1;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	pointer-events: none;
+}
+
+.cl-effect-14 a::before {
+	top: 0;
+	left: 0;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	transform: rotate(90deg);
+	-webkit-transform-origin: 0 0;
+	-moz-transform-origin: 0 0;
+	transform-origin: 0 0;
+}
+
+.cl-effect-14 a::after {
+	right: 0;
+	bottom: 0;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	transform: rotate(90deg);
+	-webkit-transform-origin: 100% 0;
+	-moz-transform-origin: 100% 0;
+	transform-origin: 100% 0;
+}
+
+.cl-effect-14 a:hover::before,
+.cl-effect-14 a:hover::after,
+.cl-effect-14 a:focus::before,
+.cl-effect-14 a:focus::after {
+	opacity: 1;
+}
+
+.cl-effect-14 a:hover::before,
+.cl-effect-14 a:focus::before {
+	left: 50%;
+	-webkit-transform: rotate(0deg) translateX(-50%);
+	-moz-transform: rotate(0deg) translateX(-50%);
+	transform: rotate(0deg) translateX(-50%);
+}
+
+.cl-effect-14 a:hover::after,
+.cl-effect-14 a:focus::after {
+	right: 50%;
+	-webkit-transform: rotate(0deg) translateX(50%);
+	-moz-transform: rotate(0deg) translateX(50%);
+	transform: rotate(0deg) translateX(50%);
+}
+
+
+.color-4 nav a {
+	position: relative;
+	display: inline-block;
+	margin: 1em 70px;
+	outline: none;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 400;
+	text-shadow: 0 0 1px rgba(255,255,255,0.3);
+	font-size: 1.8vw;
+	border:0px;
+}
+
+.color-4 nav a:hover,
+.color-4 nav a:focus {
+	outline: none;
+}
+
+.color-4{
+	margin-top: 15%;
+	padding-top:50px;
+	padding-bottom: 50px;	
+	background-color: rgba(90, 90, 117, 0.2);
+}
+
 
