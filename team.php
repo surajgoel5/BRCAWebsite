@@ -29,7 +29,6 @@
    <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
 
-
     
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -46,7 +45,6 @@
 					<!-- Inner -->
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
 							<header>
-
 								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>TEAM BRCA</a></h1>
 								<h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>
 							</header>
