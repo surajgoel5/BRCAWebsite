@@ -46,12 +46,7 @@
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
 							<header>
 								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>Cultural Secretaries, BRCA</a></h1>
-								<h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>
-
-
-								
-								
-								
+								<h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>							
 							</header>
 							<footer class="foot">
 								<a id="button2" class="action-button shadow animate blue animated fadeIn slower" data-id='3' > Go Ahead! </a>
@@ -593,15 +588,7 @@
   hello bithes
 <img src="/images/cultmanifesto/rishabh.jpg">
 </div>    
-</div>   
-  <div id="manifesto4" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>   
-  <div id="manifesto5" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>  
+   
   <div id="manifesto10" class="white-popup mfp-hide " >
   hello bithes
 <img src="/images/cultmanifesto/rishabh.jpg">

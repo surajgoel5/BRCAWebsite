@@ -19,7 +19,8 @@
 
     <!-- Custom CSS -->
     
-
+	
+	<link rel="stylesheet" href="magnific-popup/magnific-popup.css">
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -89,6 +90,8 @@
                             </li> 
                             <li><a class="mail" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+							<li><a class="open-popup-link" href="#manifesto1"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -118,6 +121,8 @@
                             </li>
                             <li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+							<li><a class="open-popup-link" href="#manifesto2"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -140,6 +145,8 @@
                             <li><a href="https://facebook.com/prakhar.singh.5015" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail2" ><i class="fa fa-envelope-o"></i></a>
+                            </li>
+							<li><a class="open-popup-link" href="#manifesto3"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -175,6 +182,8 @@
                             </li>
                             <li><a   class="mail3" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+							<li><a class="open-popup-link" href="#manifesto4"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -199,6 +208,8 @@
                             </li>
                             <li><a   class="mail4" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+							<li><a class="open-popup-link" href="#manifesto5"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -222,6 +233,8 @@
                             </li>
                             <li><a  class="mail5" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+							<li><a class="open-popup-link" href="#manifesto6"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -243,6 +256,8 @@
                             <li><a href="https://www.facebook.com/nikhil.chauhan.75685" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail6" ><i class="fa fa-envelope-o"></i></a>
+                            </li>
+							<li><a class="open-popup-link" href="#manifesto7"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -266,6 +281,8 @@
                             <li><a href="https://www.facebook.com/simran29" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail7" ><i class="fa fa-envelope-o"></i></a>
+                            </li>
+							<li><a class="open-popup-link" href="#manifesto8"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -291,6 +308,8 @@
                             </li>
                             <li><a  class="mail8" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+							<li><a class="open-popup-link" href="#manifesto9"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -315,17 +334,13 @@
                             </li>
                             <li><a  class="mail9" ><i class="fa fa-envelope-o"></i></a>
                             </li>
+							<li><a class="open-popup-link" href="#manifesto10"  ><i class="fa fa-file-text-o"></i></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
                
-                
-            
-
-
-            
-               
-            </div>
+          </div>
 
 
    
@@ -427,6 +442,48 @@
 
 <?php include ('footer.php');?>
 
+  <div id="manifesto1" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>               
+  <div id="manifesto2" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>   
+  <div id="manifesto3" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>   
+  <div id="manifesto4" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>   
+  <div id="manifesto5" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>  
+  <div id="manifesto6" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>    
+    </div>   
+  <div id="manifesto7" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>   
+  <div id="manifesto8" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>  
+  <div id="manifesto9" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>    
+   
+  <div id="manifesto10" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div> 
                 
 
     
@@ -448,16 +505,18 @@
 
 
 			
+	
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.dropotron.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
+					<script src="assets/js/jquery.bpopup.min.js"></script>
 			<script src="assets/js/jquery.onvisible.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>
-                <script src='assets/js/css3-animate-it.js'></script>
+            <script src='assets/js/css3-animate-it.js'></script>
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/team.js"></script>
-
+						<script src="magnific-popup/jquery.magnific-popup.js"></script>
 	</body>
 </html>
