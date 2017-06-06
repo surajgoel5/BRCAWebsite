@@ -46,7 +46,12 @@
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
 							<header>
 								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>Cultural Secretaries, BRCA</a></h1>
-								<h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>							
+								<h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>
+
+
+								
+								
+								
 							</header>
 							<footer class="foot">
 								<a id="button2" class="action-button shadow animate blue animated fadeIn slower" data-id='3' > Go Ahead! </a>
@@ -63,13 +68,12 @@
         <div class="container-fluid" id="move">
 
 
-<!-- Only the Name is being updated for now -->
 
            
 <div class="row">
                 <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/cultteam/rishabh.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/rishabh.jpg" class="img-responsive img-circle" alt="">
                         <h4>Rishabh Nagpal</h4>
 
                         <p class="text-muted">General Secretary, BRCA</p>
@@ -102,7 +106,7 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/cultteam/abhinav.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/abhinav.jpg" class="img-responsive img-circle" alt="">
                         <h4>Abhinav Arora</h4>
                         <p class="text-muted">Aravali</p>
 
@@ -128,7 +132,7 @@
             
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/cultteam/ayush.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/ayush.jpg" class="img-responsive img-circle" alt="">
                        <h4>Ayush Rai</h4>
                         <p class="text-muted">Girnar</p>
                         <p class="text-muted no2">+91-7210118992</p>
@@ -163,7 +167,7 @@
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/cultteam/asmita.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/asmita.jpg" class="img-responsive img-circle" alt="">
                         <h4>Asmita Pahade</h4>
                         <p class="text-muted">Himadri</p>
 
@@ -189,7 +193,7 @@
             
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/cultteam/aditya.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/aditya.jpg" class="img-responsive img-circle" alt="">
                         <h4>Aditya Singhal</h4>
                         <p class="text-muted">Jwalamukhi</p>
 
@@ -215,7 +219,7 @@
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/cultteam/ayushi.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/ayushi.jpg" class="img-responsive img-circle" alt="">
                         <h4>Ayushi Narula</h4>
                         <p class="text-muted">Kailash</p>
                         <p class="text-muted no5">+91-8527516270</p>
@@ -239,7 +243,7 @@
 
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/cultteam/rahul.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/rahul.jpg" class="img-responsive img-circle" alt="">
                        <h4>Rahul Agarwal</h4>
                         <p class="text-muted">Karakoram</p>
                         <p class="text-muted no6">+91-9810152268</p>
@@ -263,7 +267,7 @@
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/cultteam/moulik.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/moulik.jpg" class="img-responsive img-circle" alt="">
                         <h4>Moulik Choraria</h4>
                         <p class="text-muted">Kumaon</p>
 
@@ -289,7 +293,7 @@
             
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp ">
-                        <img src="images/cultteam/jatin.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/jatin.jpg" class="img-responsive img-circle" alt="">
                          <h4>Jatin Bansal</h4>
                         <p class="text-muted">Nilgiri</p>
 
@@ -315,7 +319,7 @@
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/cultteam/mohit.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/mohit.jpg" class="img-responsive img-circle" alt="">
                         <h4>Mohit Agarwal</h4>
                         <p class="text-muted">Satpura</p>
 
@@ -341,7 +345,7 @@
             
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp ">
-                        <img src="images/cultteam/rajat.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/rajat.jpg" class="img-responsive img-circle" alt="">
                        <h4>Rajat Yadav</h4>
                         <p class="text-muted">Shivalik</p>
                         <p class="text-muted no10">+91-9958428270</p>
@@ -364,7 +368,7 @@
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp ">
-                        <img src="images/cultteam/rudraksh.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/rudraksh.jpg" class="img-responsive img-circle" alt="">
                        <h4>Rudraksh Gupta</h4>
                         <p class="text-muted">Udaigiri</p>
                         <p class="text-muted no11">+91-9893029651</p>
@@ -382,10 +386,10 @@
                     </div>
                 </div>
 
-<!-- Update Details -->
+
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp ">
-                        <img src="images/cultteam/chetan.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/chetan.jpg" class="img-responsive img-circle" alt="">
                        <h4>Chetan Sagare</h4>
                         <p class="text-muted">Vindhyachal</p>
                         <p class="text-muted no12">+91-9560922280</p>
@@ -408,7 +412,7 @@
             <div class="row">
                 <div class="col-md-12 animatedParent animateOnce" align="center" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeIn ">
-                        <img src="images/cultteam/sankalp.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/sankalp.jpg" class="img-responsive img-circle" alt="">
                        <h4>Sankalp Katiyar</h4>
                         <p class="text-muted">Zanskar</p>
                         <p class="text-muted no13">+91-9582059505</p>
@@ -588,7 +592,15 @@
   hello bithes
 <img src="/images/cultmanifesto/rishabh.jpg">
 </div>    
-   
+</div>   
+  <div id="manifesto4" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>   
+  <div id="manifesto5" class="white-popup mfp-hide " >
+  hello bithes
+<img src="/images/cultmanifesto/rishabh.jpg">
+</div>  
   <div id="manifesto10" class="white-popup mfp-hide " >
   hello bithes
 <img src="/images/cultmanifesto/rishabh.jpg">
