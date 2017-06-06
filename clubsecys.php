@@ -44,16 +44,14 @@
 			<!-- Header -->
 				<div id="header" style="background-image:url(images/bg08.png)">
 
-					<!-- Inner -->
+					<!-- Nav -->
+                        <?php include 'menu.php';?>
+
+                    <!-- Inner -->
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
 							<header>
 								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>Club Secretaries, BRCA</a></h1>
 								<h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>
-
-
-								
-								
-								
 							</header>
 							<footer class="foot">
 								<a id="button2" class="action-button shadow animate blue animated fadeIn slower" data-id='3' > Go Ahead! </a>
@@ -61,8 +59,6 @@
 							</footer>
 						</div>
 
-					<!-- Nav -->
-						<?php include 'menu.php';?>
 				</div>
 
 
@@ -73,7 +69,7 @@
 <!-- Only the Name is being updated for now -->
 
            
-<div class="row">
+            <div class="row">
                 <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
                         <img src="images/cultteam/rishabh.jpg" class="img-responsive img-circle" alt="">
@@ -90,13 +86,11 @@
                             </li> 
                             <li><a class="mail" ><i class="fa fa-envelope-o"></i></a>
                             </li>
-							<li><a class="open-popup-link" href="#manifesto1"  ><i class="fa fa-file-text-o"></i></a>
+							<li><a class="open-popup-link" href="#manifesto"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
                 </div>
-               
-                
             </div>
 
 
@@ -121,7 +115,7 @@
                             </li>
                             <li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a>
                             </li>
-							<li><a class="open-popup-link" href="#manifesto2"  ><i class="fa fa-file-text-o"></i></a>
+							<li><a class="open-popup-link" href="#manifesto1"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -146,13 +140,11 @@
                             </li>
                             <li><a  class="mail2" ><i class="fa fa-envelope-o"></i></a>
                             </li>
-							<li><a class="open-popup-link" href="#manifesto3"  ><i class="fa fa-file-text-o"></i></a>
+							<li><a class="open-popup-link" href="#manifesto2"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
                 </div>
-               
-                
             </div>
 
 
@@ -182,7 +174,7 @@
                             </li>
                             <li><a   class="mail3" ><i class="fa fa-envelope-o"></i></a>
                             </li>
-							<li><a class="open-popup-link" href="#manifesto4"  ><i class="fa fa-file-text-o"></i></a>
+							<li><a class="open-popup-link" href="#manifesto3"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -208,13 +200,11 @@
                             </li>
                             <li><a   class="mail4" ><i class="fa fa-envelope-o"></i></a>
                             </li>
-							<li><a class="open-popup-link" href="#manifesto5"  ><i class="fa fa-file-text-o"></i></a>
+							<li><a class="open-popup-link" href="#manifesto4"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
                 </div>
-               
-                
             </div>
 
 
@@ -233,7 +223,7 @@
                             </li>
                             <li><a  class="mail5" ><i class="fa fa-envelope-o"></i></a>
                             </li>
-							<li><a class="open-popup-link" href="#manifesto6"  ><i class="fa fa-file-text-o"></i></a>
+							<li><a class="open-popup-link" href="#manifesto5"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -257,7 +247,7 @@
                             </li>
                             <li><a  class="mail6" ><i class="fa fa-envelope-o"></i></a>
                             </li>
-							<li><a class="open-popup-link" href="#manifesto7"  ><i class="fa fa-file-text-o"></i></a>
+							<li><a class="open-popup-link" href="#manifesto6"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -282,7 +272,7 @@
                             </li>
                             <li><a  class="mail7" ><i class="fa fa-envelope-o"></i></a>
                             </li>
-							<li><a class="open-popup-link" href="#manifesto8"  ><i class="fa fa-file-text-o"></i></a>
+							<li><a class="open-popup-link" href="#manifesto7"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -308,13 +298,11 @@
                             </li>
                             <li><a  class="mail8" ><i class="fa fa-envelope-o"></i></a>
                             </li>
-							<li><a class="open-popup-link" href="#manifesto9"  ><i class="fa fa-file-text-o"></i></a>
+							<li><a class="open-popup-link" href="#manifesto8"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
                 </div>
-               
-                
             </div>
 
 
@@ -334,13 +322,12 @@
                             </li>
                             <li><a  class="mail9" ><i class="fa fa-envelope-o"></i></a>
                             </li>
-							<li><a class="open-popup-link" href="#manifesto10"  ><i class="fa fa-file-text-o"></i></a>
+							<li><a class="open-popup-link" href="#manifesto9"  ><i class="fa fa-file-text-o"></i></a>
                             </li>
                         </ul>
                     </div>
                 </div>
-               
-          </div>
+            </div>
 
 
    
@@ -438,55 +425,45 @@
   </section>
 
 
-
-
 <?php include ('footer.php');?>
 
-  <div id="manifesto1" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>               
-  <div id="manifesto2" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>   
-  <div id="manifesto3" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>   
-  <div id="manifesto4" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>   
-  <div id="manifesto5" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>  
-  <div id="manifesto6" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>    
+
+<!-- Adding the pop-ups for the Manifestos-->
+
+
+    <div id="manifesto" class="white-popup mfp-hide " >
+        <img src="/images/cultmanifesto/rishabh.jpg">
+    </div>               
+    <div id="manifesto1" class="white-popup mfp-hide " >
+        <img src="/images/clubmanifesto/daksh.jpg">
     </div>   
-  <div id="manifesto7" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>   
-  <div id="manifesto8" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>  
-  <div id="manifesto9" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div>    
-   
-  <div id="manifesto10" class="white-popup mfp-hide " >
-  hello bithes
-<img src="/images/cultmanifesto/rishabh.jpg">
-</div> 
+    <div id="manifesto2" class="white-popup mfp-hide " >
+        <img src="/images/clubmanifesto/prakhar.jpg">
+    </div>   
+    <div id="manifesto3" class="white-popup mfp-hide " >
+        <img src="/images/cultmanifesto/swapnil.jpg">
+    </div>   
+    <div id="manifesto4" class="white-popup mfp-hide " >
+        <img src="/images/cultmanifesto/saurabh.jpg">
+    </div>  
+    <div id="manifesto5" class="white-popup mfp-hide " >
+        <img src="/images/cultmanifesto/nikhildadheech.jpg">
+    </div>    
+    <div id="manifesto6" class="white-popup mfp-hide " >
+        <img src="/images/cultmanifesto/nikhilchauhan.jpg">
+    </div>   
+    <div id="manifesto7" class="white-popup mfp-hide " >
+        <img src="/images/cultmanifesto/simran.jpg">
+    </div>  
+    <div id="manifesto8" class="white-popup mfp-hide " >
+        <img src="/images/cultmanifesto/kaustubh.jpg">
+    </div>    
+    <div id="manifesto9" class="white-popup mfp-hide " >
+        <img src="/images/cultmanifesto/divyansh.jpg">
+    </div> 
                 
 
-    
+
 
     <!-- jQuery -->
     <script src="assets/js/jquery.js"></script>
