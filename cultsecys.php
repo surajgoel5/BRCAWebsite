@@ -6,7 +6,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/team.css" />
+		<link rel="stylesheet" href="assets/css/secys.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
 <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -46,7 +46,7 @@
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
 							<header>
 								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>Cultural Secretaries, BRCA</a></h1>
-								<h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>
+                                <h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>
 							</header>
 							<footer class="foot">
 								<a id="button2" class="action-button shadow animate blue animated fadeIn slower" data-id='3' > Go Ahead! </a>

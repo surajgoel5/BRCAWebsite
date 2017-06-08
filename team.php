@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>BRCA, IITDelhi</title>
+		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -22,7 +22,7 @@
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-	    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
@@ -45,7 +45,7 @@
 					<!-- Inner -->
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
 							<header>
-								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>TEAM BRCA</a></h1>
+								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>Team BRCA</a></h1>
 								<h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>
 							</header>
 							<footer class="foot">
