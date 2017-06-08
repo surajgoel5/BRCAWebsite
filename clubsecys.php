@@ -101,7 +101,7 @@
                     <div class="team-member animated fadeInUp">
                         <img src="images/clubsecys/daksh.jpg" class="img-responsive img-circle" alt="">
                         <h4>Daksh Chandra Bansal</h4>
-                        <p class="text-muted">PFC</p>
+                        <p class="text-muted">Photography and Films</p>
 
                         <p class="text-muted no1">+91-9953829939</p>
                         <p class="text-muted email1"><a href="mailto:dakshcbansal@gmail.com">dakshcbansal@gmail.com</a></p>
@@ -186,7 +186,7 @@
                     <div class="team-member animated fadeInUp">
                         <img src="images/clubsecys/saurabh.jpg" class="img-responsive img-circle" alt="">
                         <h4>Saurabh Pal</h4>
-                        <p class="text-muted">FACC</p>
+                        <p class="text-muted">Fine Arts and Crafts</p>
 
                         <p class="text-muted no4">+91-9694458113</p>
                         <p class="text-muted email4"><a href="mailto:bestpal97@gmail.com">bestpal97@gmail.com</a></p>
