@@ -42,9 +42,6 @@
 			<!-- Header -->
 				<div id="header" style="background-image:url(images/bg08.png)">
 
-                    <!-- Nav -->
-                        <?php include 'menu.php';?>
-
                     <!-- Inner -->
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
 							<header>
@@ -56,6 +53,8 @@
                                
 							</footer>
 						</div>
+                    <!-- Nav -->
+                        <?php include 'menu.php';?>
 				</div>
 
 
