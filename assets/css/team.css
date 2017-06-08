@@ -1,3 +1,6 @@
+/*Common team.css for both pages and navigation page*/
+
+
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
 @import url("font-awesome.min.css");
 
@@ -2006,9 +2009,18 @@ font-family: 'Droid Serif', Georgia, Times, serif;
 	border-bottom: 1px solid;
 }
 
+/*.foot is for the Button on both team pages*/
+
 .foot{
-	padding-top:0px;
+	padding-top:120px;
 }
+
+/*.foothome is for the main page where we can navigate to the two team pages*/
+
+.foothome{
+	padding-top:  0px;
+}
+
 .cl-effect-14 a {
 	padding: 0 20px;
 	height: 45px;
