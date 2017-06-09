@@ -1,6 +1,3 @@
-/*Common team.css for both, different team pages and Team.php page*/
-
-
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
 @import url("font-awesome.min.css");
 
@@ -746,14 +743,6 @@
 			height: 100%;
 		}
 
-
-		#header:before {
-			content: '';
-			display: inline-block;
-			vertical-align: middle;
-			height: 100%;
-		}
-
 		#header .inner {
 			position: relative;
 			z-index: 1;
@@ -775,44 +764,38 @@
 			color: #fff;
 			font-size: 3em;
 			line-height: 1em;
-
 		}
 
-			#header h2 {
-			
-			font-size: 2.3em;
-			
+		#header h1 a {
+			color: inherit;
+		}
+
+		#header h2 {
+		    font-size: 2.3em;	
 		}
 		#header h1 a, #header h2 a{
 			text-decoration: none;
 		}
 
-
-
-
-			#header h1 a {
-				color: inherit;
-			}
-
 		#header .button1 {
-			 display:block;
-    width:70px;
-    height:70px;
-    line-height:68px;
-    border: 2px solid #f5f5f5;
-    border-radius: 100%;
-    color:#f5f5f5;
-    text-align:center;
-    text-decoration:none;
-    box-shadow: 0 0 3px gray;
-    font-size:35px;
-    -moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-    -ms-transform: rotate(180deg); /* IE 9 */
-    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
-    transform: rotate(180deg);
+			display:block;
+			width:70px;
+			height:70px;
+			line-height:68px;
+			border: 2px solid #f5f5f5;
+			border-radius: 100%;
+			color:#f5f5f5;
+			text-align:center;
+			text-decoration:none;
+			box-shadow: 0 0 3px gray;
+			font-size:35px;
+			-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+				-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+				-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+				transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+			-ms-transform: rotate(180deg); /* IE 9 */
+			-webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+			transform: rotate(180deg);
 		}
 
 		#header hr {
@@ -827,10 +810,7 @@
 			}
 
 		#header footer {
-			
 			margin:0 auto;
-
-
 		}
 
 		.button1{
@@ -843,10 +823,10 @@
 			opacity:.8;
 		}
 
-	body.homepage #header {
-		height: 100vh;
-		min-height: 40em;
-	}
+	    body.homepage #header {
+		    height: 100vh;
+		    min-height: 40em;
+	    }
 
 		body.homepage #header h1 {
 			font-size: 4em;
@@ -877,7 +857,7 @@
 		}
 
 			#nav > ul:before, #nav > ul:after {
-				content:'';
+				content: '';
 				display: block;
 				width: 300%;
 				position: absolute;
@@ -910,7 +890,6 @@
 				transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
 			}
 			
-
 				#nav > ul > li.active {
 					border-color: rgba(192, 192, 192, 0.35);
 				}
@@ -947,8 +926,7 @@
 		.dropotron li {
 			border-top: solid 1px rgba(128, 128, 128, 0.2);
 			color: #5b5b5b;
-			//font-size: 100%;
-
+			font-size: 100%;
 		}
 
 			.dropotron li:first-child {
@@ -1125,7 +1103,7 @@
 				position: absolute;
 				top: 50%;
 				margin: -1.5em 0 0 0;
-				background: url("images/arrow.svg") no-repeat center center;
+				background: url("../../images/arrow.svg") no-repeat center center;
 			}
 
 			.carousel .forward:hover:before, .carousel .backward:hover:before {
@@ -1204,9 +1182,9 @@
 	@media screen and (max-width: 1680px) {
 
 		/* Basic */
-        #nav > ul > li {
-	        font-size: 14pt;
-        }
+            #nav > ul > li {
+	            font-size: 14pt;
+            }
 			body, input, textarea, select {
 				font-size: 14pt;
 				line-height: 1.75em;
@@ -1761,12 +1739,6 @@ section h3.section-subheading {
     font-style: italic;
     font-weight: 400;
 }
-
-
-
-
-
-
 
 
 
