@@ -2096,53 +2096,22 @@
 		background-attachment: fixed;
 		color: #fff;
 		text-align: center;
-		padding: 4.5em 0 2.2em 0;
+		padding: 5em 0 2em 0;  /*Keeping menu.php in mind*/
 		cursor: default;
 	}
 
 /*here is the change  */
 
-body.homepage #header {
-				min-height: 0;
-				
-				height: auto;
-			}
+        body.homepage #header {
+			min-height: 0;			
+			height: auto;
+		}
 
-				body.homepage #header:before {
-					display: none;
-				}
+		body.homepage #header:before {
+			display: none;
+		}
 
-				body.homepage #header h1 {
-					font-size: 2.5em;
-					color:#E1E1E1;
-				}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+		
 		#header:before {
 			content: '';
 			display: inline-block;
@@ -2162,10 +2131,10 @@ body.homepage #header {
 			display: inline-block;
 		}
 
-			#header header > p {
-				font-size: 1.25em;
-				margin: 0;
-			}
+		#header header > p {
+			font-size: 1.25em;
+			margin: 0;
+		}
 
 		#header h1 {
 			color: #fff;
@@ -2173,9 +2142,13 @@ body.homepage #header {
 			line-height: 1em;
 		}
 
-			#header h1 a {
-				color: inherit;
-			}
+		#header h1 a {
+			color: inherit;
+		}
+
+		#header h1 a, #header h2 a{
+			text-decoration: none;
+		}
 
 		#header .button {
 			display: inline-block;
@@ -2187,6 +2160,7 @@ body.homepage #header {
 			font-size: 1.25em;
 			padding: 0;
 		}
+
 
 		#header hr {
 			top: 1.5em;
@@ -2203,23 +2177,21 @@ body.homepage #header {
 			margin: 1em 0 0 0;
 		}
 
-	body.homepage #header {
-		min-height: 40em;
-	}
+	   /* body.homepage #header {
+		    height: 30vh;
+	    } */ /*CHeck once*/
 
 		body.homepage #header h1 {
 			font-size: 4em;
 		}
 
 	
-		
-
 	
 /* Nav */
 
 	#nav {
 		position: absolute;
-		top: 0;
+		top: 14px;
 		left: 0;
 		width: 100%;
 		text-align: center;
@@ -2329,7 +2301,7 @@ body.homepage #header {
 
 		.dropotron.level-0 {
 			margin-top: 2em;
-			font-size: 0.9em;
+			font-size: 1.15em;
 		}
 
 			.dropotron.level-0:before {
@@ -2348,20 +2320,35 @@ body.homepage #header {
 	#banner {
 		background: #fff;
 		text-align: center;
-		padding: 1.5em 0 1em 0;
-		
+		padding: 0.5em 0 0em 0;
 	}
 
-		#banner header > p {
-			
-			
-			margin-left:7%;
-			margin-right: 7%;
-			text-align:justify;
-			font-size: 26px;
-			color:#303030;
+	#banner header > p {
+		margin-left:7%;
+		margin-right: 7%;
+		text-align:justify;
+		font-size: 14px;
+		color:#303030;
+	}
 
-		}
+/* Navigation buttons */
+
+    #buttons{
+    	padding-top: 10px;
+    	text-align: center;
+    }
+
+    #buttons > a{
+    	font-size: 16px;
+    }
+
+    .customize{
+    	margin: 10px;
+    	padding: 10px 30px 10px 30px!important;
+    	border-radius: 10px!important;
+    }
+
+    
 
 /* Content */
 
@@ -2388,6 +2375,7 @@ body.homepage #header {
 	#sidebar > section {
 		margin-bottom: 0;
 	}
+
 
 /* Main */
 
@@ -2529,7 +2517,6 @@ body.homepage #header {
 			white-space: nowrap;
 			position: relative;
 			-webkit-overflow-scrolling: touch;
-
 			padding: 0 2em 0 2em;
 		}
 
@@ -2572,6 +2559,10 @@ body.homepage #header {
 
 		/* Basic */
 
+	        #nav > ul > li {
+	            font-size: 14pt;
+            }
+
 			body, input, textarea, select {
 				font-size: 14pt;
 				line-height: 1.75em;
@@ -2591,7 +2582,10 @@ body.homepage #header {
 					width: 18em;
 					margin: 0 1.25em 0 0;
 				}
-
+	    /* Banner */
+	        #banner header > p{
+	        	font-size: 16px;
+	        }
 	}
 
 /* Normal */
@@ -2599,6 +2593,9 @@ body.homepage #header {
 	@media screen and (max-width: 1280px) {
 
 		/* Basic */
+            #nav > ul > li {
+            	font-size: 12pt;
+            }
 
 			body, input, textarea, select {
 				font-size: 12pt;
@@ -2637,6 +2634,11 @@ body.homepage #header {
 				padding-right: 2em;
 			}
 
+		/* Banner */
+	        #banner header > p{
+	        	font-size: 14px;
+	        }
+
 	}
 
 /* Narrow */
@@ -2646,6 +2648,10 @@ body.homepage #header {
 	@media screen and (max-width: 840px) {
 
 		/* Basic */
+
+		    #nav > ul > li {
+	            font-size: 13pt;
+            }
 
 			body, input, textarea, select {
 				font-size: 13pt;
@@ -2677,6 +2683,11 @@ body.homepage #header {
 					width: 18em;
 					margin: 0 1em 0 0;
 				}
+
+	    /* Banner */
+	        #banner header > p{
+	        	font-size: 14px;
+	        }
 
 	}
 
@@ -2729,6 +2740,11 @@ body.homepage #header {
 			header > p {
 				font-size: 1.25em;
 			}
+
+			/* Banner */
+	        #banner header > p{
+	        	font-size: 12px;
+	        }
 
 		/* Image */
 
@@ -2800,6 +2816,54 @@ body.homepage #header {
 		/* Off-Canvas Navigation */
 
 			#page-wrapper {
+				-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				padding-bottom: 1px;
+			}
+
+			#buttons{
+				-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				padding-bottom: 1px;
+			}
+
+			#banner{
+				-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				padding-bottom: 1px;
+			}
+
+			#rotating-pics{
+				-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				padding-bottom: 1px;
+			}
+
+			#foot{
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -2957,6 +3021,34 @@ body.homepage #header {
 				transform: translateY(50vh);
 			}
 
+			body.navPanel-visible #buttons{
+				-moz-transform: translateY(50vh);
+				-webkit-transform: translateY(50vh);
+				-ms-transform: translateY(50vh);
+				transform: translateY(50vh);
+			}
+
+            body.navPanel-visible #banner{
+				-moz-transform: translateY(50vh);
+				-webkit-transform: translateY(50vh);
+				-ms-transform: translateY(50vh);
+				transform: translateY(50vh);
+			}
+
+			body.navPanel-visible #rotating-pics{
+				-moz-transform: translateY(50vh);
+				-webkit-transform: translateY(50vh);
+				-ms-transform: translateY(50vh);
+				transform: translateY(50vh);
+			}
+
+			body.navPanel-visible #foot{
+				-moz-transform: translateY(50vh);
+				-webkit-transform: translateY(50vh);
+				-ms-transform: translateY(50vh);
+				transform: translateY(50vh);
+			}
+
 			body.navPanel-visible #navButton {
 				-moz-transform: translateY(50vh);
 				-webkit-transform: translateY(50vh);
@@ -3083,20 +3175,16 @@ body.homepage #header {
 	line-height: 26.3999996185303px;
 }
 
-
-
-
-
-
-
-
 	.bann { position: relative; overflow: auto; }
     .bann li { list-style: none; }
         .bann ul li { float: left; }
 
+#rotating-pics{
+	margin-bottom: 20px;
+}
+
 
 #footer{
-	
 	padding-top: 5px;
 	padding-bottom:5px;
 	margin-bottom: 0px;
@@ -3110,11 +3198,15 @@ body.homepage #header {
         }
         .footerleft a{
         	padding:13px;
-        	font:80%;
+        	color:#fff;
+        	font-size: 20px;
+        }
+        .footerleft a:hover{
+        	color:rgb(255,0,0,.4);
         }
 
         .footerright{
-        	font-size: 76%;
+        	font-size: 12px;
         	line-height: 15px;
         	float:right;
         	text-align: right;
