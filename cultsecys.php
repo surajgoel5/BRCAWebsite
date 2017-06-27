@@ -40,7 +40,7 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<div id="header" style="background-image:url(images/bg08.png)">
+				<div id="header" style="background-image:url(images/bg-cult.png)">
 
                     <!-- Inner -->
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
@@ -514,23 +514,6 @@
                </div>
                 
             </div>
-
-
-
-
-
-
-
-
-
-
-
-
-            
-
-
-
-
             
         </div> -->
 

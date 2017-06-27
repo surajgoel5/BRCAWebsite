@@ -9,38 +9,36 @@
 		<link rel="stylesheet" href="assets/css/team.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
-<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="assets/css/animations.css">
-		 <!-- Bootstrap Core CSS -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/animations.css">
+		<!-- Bootstrap Core CSS -->
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/animations.css">
 
 
-    <!-- Custom CSS -->
+        <!-- Custom CSS -->
     
 
-    <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-   <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+        <!-- Custom Fonts -->
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+        <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+        <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
+        <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
 
     
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
 	</head>
-	<body class="homepage">
+    <body class="homepage">
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<div id="header" style="background-image:url(images/bg08.png)">
+				<div id="header" style="background-image:url(images/bg-team.png)"> 
 
 					<!-- Inner -->
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
@@ -49,13 +47,13 @@
 								<h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>
 							</header>
 							<footer class="foot">
-				           <section class="color-4">
-				           <nav class="cl-effect-14">
-					          <a class="animated fadeIn slower" data-id='3' href="cultsecys.php">Cultural Secretaries</a>
-				        	  <a class="animated fadeIn slower" data-id='3' href="clubsecys.php">Club Secretaries</a>
-				           </nav>
-			               </section>	
-								</footer>
+				                <section class="color-4">
+				                <nav class="cl-effect-14">
+					                <a class="animated fadeIn slower" data-id='3' href="cultsecys.php">Cultural Secretaries</a>
+				        	        <a class="animated fadeIn slower" data-id='3' href="clubsecys.php">Club Secretaries</a>
+				                </nav>
+			                    </section>	
+							</footer>
 						</div>
 
 					<!-- Nav -->

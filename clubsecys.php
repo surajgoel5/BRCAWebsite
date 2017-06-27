@@ -9,18 +9,18 @@
 		<link rel="stylesheet" href="assets/css/secys.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
-<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="assets/css/animations.css">
-		 <!-- Bootstrap Core CSS -->
+        <link rel="stylesheet" href="assets/css/animations.css">
+		 
+    <!-- Bootstrap Core CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/animations.css">
 
 
     <!-- Custom CSS -->
-    
-	
 	<link rel="stylesheet" href="magnific-popup/magnific-popup.css">
+    
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -42,7 +42,7 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<div id="header" style="background-image:url(images/bg08.png)">
+				<div id="header" style="background-image:url(images/bg-club.png)">
 
                     <!-- Inner -->
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
@@ -69,7 +69,7 @@
             <div class="row">
                 <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/cultteam/rishabh.jpg" class="img-responsive img-circle" alt="">
+                        <img src="images/cultsecys/rishabh.jpg" class="img-responsive img-circle" alt="">
                         <h4>Rishabh Nagpal</h4>
 
                         <p class="text-muted">General Secretary, BRCA</p>
@@ -118,10 +118,6 @@
                     </div>
                 </div>
                
-                
-            
-
-
             
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
@@ -146,15 +142,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
@@ -176,10 +163,6 @@
                         </ul>
                     </div>
                 </div>
-               
-                
-            
-
 
             
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
@@ -491,6 +474,6 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/team.js"></script>
-						<script src="magnific-popup/jquery.magnific-popup.js"></script>
+			<script src="magnific-popup/jquery.magnific-popup.js"></script>
 	</body>
 </html>
