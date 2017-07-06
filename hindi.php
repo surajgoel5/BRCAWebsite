@@ -53,11 +53,12 @@
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
 		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
+		    <a href="hinditeam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
+		    <a href="https://drive.google.com/folderview?id=0BxS0qg2VyKWEfmRPNDRycE9lWWxrSUZoc0JGS1pYNGtZRjhoOW02S2J3eGc4ZHAxZll5V1E&usp=sharing_eid" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
-			<header>				
+			<header>	
+			<!--Might have to change it-->			
     			<p class="animated fadeIn slower" data-id='2'>
 				A sad side effect of globalization has been a gradual cutoff and diminishing importance for local languages, especially in urban areas like Delhi. It then becomes more and more important to hold onto one’s culture. The Hindi Samiti celebrates all things Indian and then some. Indeed, most Hindi Samiti debates show remarkable maturity and brilliant thinking on the part of the participants. With other entertaining events like Sopan (the India Quiz), Word Games etc, the Hindi Samiti has made a special place for itself in IIT.
 			    </p>

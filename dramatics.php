@@ -53,11 +53,12 @@
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
 		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
+		    <a href="dramaticsteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
+		    <a href="https://drive.google.com/folderview?id=0B1vLhp0aiT7eflpyaXZOZnZIcHRLNUEzNnBRbkFxYkszOFdSejFEczJfUzU4aUpOYTQwQ1k&usp=sharing" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
-			<header>				
+			<header>	
+			<!--Might have to change it-->			
     			<p class="animated fadeIn slower" data-id='2'>
 				Gone are the days when you heard the famous “drama mat kar” from Mom and Dad when you got a little light headed and started play-acting for fun. You now are at a place where the bigger a dramebaaz you are, the more you’re appreciated. The Dramatics Club presents a bunch of amazing events round the year, from stage and street performances to mimes and comedy acts that entertain the junta thoroughly.
 			    </p>

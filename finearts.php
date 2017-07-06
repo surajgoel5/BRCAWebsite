@@ -53,13 +53,14 @@
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
 		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
+		    <a href="fineartsteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
+		    <a href="https://drive.google.com/drive/folders/0B1vLhp0aiT7efllDbkxmbmxPSDNDMlRrSlhyR0x2d2JBbFNxRjRtWEMweFJ6Q2VSNFhsNzQ" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
-			<header>				
+			<header>	
+			<!--It is updated-->			
     			<p class="animated fadeIn slower" data-id='2'>
-				FACC is the perfect platform for you to showcase your artistic capabilities and also learn a lot of new things at the same time. With events like Oil Painting, Charcoal Painting, Mask Painting and workshops on artistic activities like Origamy, there is a lot to fulfill your creative appetite. The club also organizes various events such as Street Painting, Graffiti, Face Painting etc during Rendezvous. The FAC junta is renowned for its untiring efforts, and is one of closest knit communities on campus. The club plans to have a permanent exhibition room at the Student Activities Centre from this year.
+				FACC is the perfect platform for you to showcase your artistic capabilities and also learn a various new art-forms. With events like Oil Painting, Charcoal Painting, Mask Painting and workshops on artistic activities like Origami, there is a lot to fulfill your creative appetite. The club also organizes various events such as Street Painting, Graffiti, Face Painting etc during Rendezvous. The FAC junta is renowned for its untiring efforts, and is one of closest knit communities on campus.
 			    </p>
 			</header>
 		</section>

@@ -53,13 +53,14 @@
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
 		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
+		    <a href="spicmacayteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
+		    <a href="https://drive.google.com/folderview?id=0B1vLhp0aiT7efnl6MldZazdlUkFJakJTcU42NUpSQzhIZ2xncWVWUk5pSlFrXzZuSzVsODQ&usp=sharing" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
-			<header>				
+			<header>	
+			<!--Might have to change it-->			
     			<p class="animated fadeIn slower" data-id='2'>
-				Society for the Promotion of Indian Classical Music And Culture Amongst Youth or SPIC MACAY is a voluntary youth movement which promotes Indian classical music, dance and other aspects of Indian culture. VIRASAT - the annual fest of SPIC-MACAY sprawls over 3 weeks and comprises of performances and workshops in arts and crafts, talks, theatre, films and yoga. Highly esteemed classical performers like Pt. Hariprasad Chaurasia, Ustad Amjad Ah Khan regularly perform during Virasat. As a BRCA club, SPIC MACAY organizes many workshops, concerts and events to keep the students in touch with their heritage.
+				Society for the Promotion of Indian Classical Music And Culture Amongst Youth, or SPIC MACAY is a voluntary youth movement which promotes Indian classical music, dance and other aspects of Indian culture. VIRASAT - the annual fest of SPIC-MACAY sprawls over 3 weeks and comprises of performances and workshops in arts and crafts, talks, theatre, films and yoga. Highly esteemed classical performers like Pt. Hariprasad Chaurasia, Ustad Amjad Ah Khan regularly perform during Virasat. As a BRCA club, SPIC MACAY organizes many workshops, concerts and events to keep the students in touch with their heritage.
 			    </p>
 			</header>
 		</section>

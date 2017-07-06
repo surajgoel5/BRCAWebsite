@@ -53,13 +53,14 @@
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
 		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
+		    <a href="musicteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
+		    <a href="https://drive.google.com/folderview?id=0B1vLhp0aiT7efmtzV3RQdmU3Q1ZaTHQ4SkhMQzBoWnZCX1lKZWpoQ01wYUhUaUVSTEJYTGc&usp=sharing" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
-			<header>				
+			<header>		
+			<!--It is updated-->		
     			<p class="animated fadeIn slower" data-id='2'>
-				Known for uniting the music fraternity of IIT Delhi, the Music Club promotes the music culture among the students and faculty alike, giving a stage to willing performers and a platform to beginners to cultivate their skills. It organizes an array of events encompassing many genres, both Western and Eastern. Most of the events are organized at the Institute level with independent participation, while some events also comprise various hostels and departments competing against each other. Events like ‘Mehfil’ combine ghazals, qawwalis and Indian folk into a seamless and unforgettable experience. Towards the end of the year, the club organizes a music festival called ‘Malhaar’, which is highly popular in the IIT fraternity.
+				Known for uniting the music fraternity of IIT Delhi, the Music Club promotes the music culture among the students and faculty alike, giving a stage to willing performers and a platform to beginners to cultivate their skills. It organizes an array of events encompassing many genres, both Western and Eastern. The events are organized at the Institute level that comprise various hostels and years competing against each other. Events like ‘Mehfil’ combine ghazals, qawwalis and Indian folk into a seamless and unforgettable experience.
 			    </p>
 			</header>
 		</section>

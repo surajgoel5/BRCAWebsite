@@ -53,13 +53,15 @@
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
 		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
+		    <a href="literaryteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
+		    <a href="https://drive.google.com/folderview?id=0B1vLhp0aiT7eflVqM1U3aWZURF8wQm0wZ3JVWFYyUUtTV0ZfQ0tzM1I5TWo4bmduTlZzWUE&usp=sharing" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
-			<header>				
+			<header>
+			<!--It is updated-->				
     			<p class="animated fadeIn slower" data-id='2'>
-				The Literary Club aims to take your imagination and creativity to a higher level. The Club plans to organize a Readers Circle to promote a reading culture among the students. To keep the fun quotient high, events like word Games (Scrabble), Pot Pourri, Cryptic Crosswords are planned. A trip to the famous Jaipur Lit Fest organized by Lit Club has the potential to become the most memorable literary adventure you have ever had.
+				Have a knack for languages and literature? For those of you who feel that books are a natural extension of yourself, Literary Club is the place to be! 
+                We are a group of zealous students who never get tired of talking about poetry, literature, and language. Get ready to play with words and sentences, read between the lines, delve deep into the intricacies of language, while having fun discussions and quizzes over your favorite books!
 			    </p>
 			</header>
 		</section>

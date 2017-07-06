@@ -53,11 +53,12 @@
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
 		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
+		    <a href="quizzingteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
+		    <a href="https://drive.google.com/folderview?id=0ByQs4RiVZ79jOHB1eklSUDJfbm8&usp=sharing" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
-			<header>				
+			<header>
+			    <!--It is updated/To be same-->				
     			<p class="animated fadeIn slower" data-id='2'>
 				The traditional notion of a quizzer is a person without a social life who mugs up fact books day in and out. IITD’s Quizzing Club is here to dispel this crude ideology and make quizzing a social hobby. The wide variety of questions will ensure that your knowledge, howsoever outlandish, is respected. You will learn how to think laterally, and when everything fails, a guess might turn out to be good enough cause of agony for your competitors. This year, the Quizzing Club is going all out, not only to promote your passion, but also inculcate the same in case you are a newbie. For the rest of the time, teams will fight it out for the ultimate glory and history has been a frequent witness to quizzes going down the wire. Happy Quizzing!
 			    </p>

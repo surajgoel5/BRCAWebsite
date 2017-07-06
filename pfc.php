@@ -53,11 +53,12 @@
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
 		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
+		    <a href="pfcteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
+		    <a href="https://drive.google.com/drive/u/0/folders/0B1vLhp0aiT7edVJGMFBjdy1mc2M" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
-			<header>				
+			<header>			
+			<!--Might have to change it-->	
     			<p class="animated fadeIn slower" data-id='2'>
 				PFC, or Photography and Film Club is one of the most integral and popular clubs of the BRCA. A heaven for the creative, the Film section of the club will host events like Movie Making, Trailer Making, Ad-Making. After a hiatus of around a decade or so, the club will restart monthly movie screenings along with live screenings too. The club will also be conducting various workshops and learning sessions on image-editing and video-editing softwares. As far as photography is concerned, with events like Graphic Designing, Photography, Photo walks and a new event titled "Wild Cliks" wherein the club would take you on a tour to a wildlife sanctuary and whether you have a knack for taking pics or you just want to explore, you would definitely take out your cameras and get clicking. The club will initiate a set of fun filled events like photo walks in Delhi, weekly comic strips, online photography contests, treasure hunts, Top 5 lists and reviews for almost everything in Delhi under a new event titled "Delhi Diaries" - a photography and journalism endeavour.
 			    </p>
