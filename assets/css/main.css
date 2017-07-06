@@ -2264,6 +2264,7 @@
 					display: none;
 				}
 
+
 	.dropotron {
 		background: rgba(255, 255, 255, 0.975);
 		padding: 1em 1.25em 1em 1.25em;
@@ -2293,10 +2294,16 @@
 				display: block;
 				border: 0;
 				padding: 0.5em 0 0.5em 0;
+				color: #5b5b5b;
+				text-decoration: none;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
 				transition: color 0.35s ease-in-out;
+			}
+
+			.dropotron li a:hover{
+				color: #337ab7;
 			}
 
 		.dropotron.level-0 {
