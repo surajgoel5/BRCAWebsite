@@ -68,7 +68,7 @@
                 <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
            
-						<img src="images/clubsecys/saurabh.jpg" class="img-responsive img-circle" alt="">
+						<img src="images/faccreps/saurabhPal_facc.jpg" class="img-responsive img-circle" alt="">
                         <h4>Saurabh Pal</h4>
                         <p class="text-muted">Secretary, Fine Arts and Crafts Club</p>
 
