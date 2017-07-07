@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Quizzing Team</title>
+		<title>Literary Team</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -45,7 +45,7 @@
                     <!-- Inner -->
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
 							<header>
-								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>Quizzing Team</a></h1>
+								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>Literary Team</a></h1>
                                 <h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>
 							</header>
 							<footer class="foot">
@@ -67,17 +67,17 @@
 <div class="row">
                 <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/quizreps/Swapnil_QuizzingCLub.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Swapnil Sinha</h4>
+                        <img src="images/litreps/simran_secy.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Simran Malik</h4>
 
-                        <p class="text-muted">Secretary, Quizzing Club</p>
+                        <p class="text-muted">Secretary, Literary Club</p>
 
-                        <p class="text-muted no">+91-9757363647</p>   
-                        <p class="text-muted email"><a href="mailto:swapnilsinha98@gmail.com">swapnilsinha98@gmail.com</a></p>
+                        <p class="text-muted no">+91-7838465767</p>   
+                        <p class="text-muted email"><a href="mailto:simranmlk29@gmail.com">simranmlk29@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/swapnil.sinha.7298" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/simran29" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li> 
                             <li><a class="mail" ><i class="fa fa-envelope-o"></i></a>
 
@@ -98,16 +98,16 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/quizreps/_Aravali - Soumya Sharma.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Soumya Sharma</h4>
+                        <img src="images/litreps/Harsh Pare Aravali.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Harsh Pare</h4>
                         <p class="text-muted">Aravali Representative</p>
 
-                        <p class="text-muted no1">+91-9560444785</p>
-                        <p class="text-muted email1"><a href="mailto:soumyasharma98@gmail.com">soumyasharma98@gmail.com</a></p>
+                        <p class="text-muted no1">+91-9891040898</p>
+                        <p class="text-muted email1"><a href="mailto:harshpare12@gmail.com">harshpare12@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone1" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/haneesh.aggarwal" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/profile.php?id=100012275797994" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -124,15 +124,15 @@
             
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/quizreps/_Girnar - Sarthak Vishnoi.jpg" class="img-responsive img-circle" alt="">
-                       <h4>Sarthak Vishnoi</h4>
+                        <img src="images/litreps/Yash Sheth Girnar.jpg" class="img-responsive img-circle" alt="">
+                       <h4>Yash Sheth</h4>
                         <p class="text-muted">Girnar Representative</p>
-                        <p class="text-muted no2">+91-7016547236</p>
-                        <p class="text-muted email2"><a href="mailto:sarthakvishnoi01@gmail.com">sarthakvishnoi01@gmail.com</a></p>
+                        <p class="text-muted no2">+91-9004547628</p>
+                        <p class="text-muted email2"><a href="mailto:ysheth98@gmail.com">ysheth98@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone2" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/profile.php?id=100009414999039" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/yash.sheth.140" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail2" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -156,16 +156,16 @@
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/quizreps/_Himadri - Anuja Trivedi.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Anuja Trivedi</h4>
+                        <img src="images/litreps/Unnati Agrawal Himadri.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Unnati Agrawal</h4>
                         <p class="text-muted">Himadri Representative</p>
 
-                        <p class="text-muted no3">+91-8004873293</p>
-                        <p class="text-muted email3"><a href="mailto:anujatrivedi75@gmail.com">anujatrivedi75@gmail.com</a></p>
+                        <p class="text-muted no3">+91-8460733008</p>
+                        <p class="text-muted email3"><a href="mailto:unnati707@gmail.com">unnati707@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone3"  ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/heisenberg.1147" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/unnati.agrawal707" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a   class="mail3" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -181,16 +181,16 @@
             
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/quizreps/_Jwalamukhi - Utkarsh Reniwal.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Utkarsh Reniwal</h4>
+                        <img src="images/litreps/Kartik Mundra Jwalamukhi.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Kartik Mundra</h4>
                         <p class="text-muted">Jwalamukhi Representative</p>
 
-                        <p class="text-muted no4">+91-9462091691</p>
-                        <p class="text-muted email4"><a href="mailto:utkarsh.reniwal@gmail.com">utkarsh.reniwal@gmail.com</a></p>
+                        <p class="text-muted no4">+91-8003328404</p>
+                        <p class="text-muted email4"><a href="mailto:kartikmundra404@gmail.com">kartikmundra404@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone4"  ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://m.facebook.com/utsav.das.754?ref=bookmarks" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://m.facebook.com/profile.php?id=100012610232783" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a   class="mail4" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -204,15 +204,15 @@
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/quizreps/_Kailash - Arundhati Dixit.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Arundhati Dixit</h4>
+                        <img src="images/litreps/Riya Singh Kailash.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Riya Singh</h4>
                         <p class="text-muted">Kailash Representative</p>
-                        <p class="text-muted no5">+91-9958489025</p>
-                        <p class="text-muted email5"><a href="mailto:arundhatidixit30@gmail.com">arundhatidixit30@gmail.com</a></p>
+                        <p class="text-muted no5">+91-9899269029</p>
+                        <p class="text-muted email5"><a href="mailto:riyasingh.jsps@gmail.com">riyasingh.jsps@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone5"  ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/kritika.grover2" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/riyasingh.jsps" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail5" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -227,15 +227,15 @@
 
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/quizreps/_Karakoram - Siddharth Kumar.jpg" class="img-responsive img-circle" alt="">
-                       <h4>Siddharth Kumar</h4>
+                        <img src="images/litreps/Pranav Bhagat Karakoram.jpg" class="img-responsive img-circle" alt="">
+                       <h4>Pranav Bhagat</h4>
                         <p class="text-muted">Karakoram Representative</p>
-                        <p class="text-muted no6">+91-8826083490</p>
-                        <p class="text-muted email6"><a href="mailto:kumar.siddharth3007@gmail.com">kumar.siddharth3007@gmail.com</a></p>
+                        <p class="text-muted no6">+91-8826077611</p>
+                        <p class="text-muted email6"><a href="mailto:pranavbhagat5@outlook.com">pranavbhagat5@outlook.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone6" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/sushant.mendiratta.7" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/pranavbhagatz" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail6" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -250,16 +250,16 @@
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/quizreps/_Kumaon - Salil Chandra.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Salil Chandra</h4>
+                        <img src="images/litreps/Sanchit Bedi Kumaon.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Sanchit Bedi</h4>
                         <p class="text-muted">Kumaon Representative</p>
 
-                        <p class="text-muted no7">+91-9891067160</p>
-                        <p class="text-muted email7"><a href="mailto:salil.iitd@gmail.com">salil.iitd@gmail.com</a></p>
+                        <p class="text-muted no7">+91-8290000575</p>
+                        <p class="text-muted email7"><a href="mailto:sanchitbedi256@gmail.com">sanchitbedi256@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone7" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/sen.sandesh" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/Sanchit.Bedi.7" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail7" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -275,16 +275,16 @@
             
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp ">
-                        <img src="images/quizreps/_Nilgiri - Hemang Shekhar.jpg" class="img-responsive img-circle" alt="">
-                         <h4>Hemang Shekhar</h4>
+                        <img src="images/litreps/Swapnesh Agrawal Nilgiri.jpg" class="img-responsive img-circle" alt="">
+                         <h4>Swapnesh Agrawal</h4>
                         <p class="text-muted">Nilgiri Representative</p>
 
-                        <p class="text-muted no8">+91-9871701384</p>
-                        <p class="text-muted email8"><a href="mailto:hemang_shekhar@yahoo.co.in">hemang_shekhar@yahoo.co.in</a></p>
+                        <p class="text-muted no8">+91-9425955627 / 9582760964</p>
+                        <p class="text-muted email8"><a href="mailto:swapneshsagrawal@gmail.com">swapneshsagrawal@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone8" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/shantam.sharma2" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/swapnesh.854" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail8" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -302,15 +302,15 @@
             
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp ">
-                        <img src="images/quizreps/_Satpura - Akash Mahajan.jpg" class="img-responsive img-circle" alt="">
-                       <h4>Akash Mahajan</h4>
+                        <img src="images/litreps/Prakhar Agrawal Satpura.jpg" class="img-responsive img-circle" alt="">
+                       <h4>Prakhar Agrawal</h4>
                         <p class="text-muted">Satpura Representative</p>
-                        <p class="text-muted no9">+91-9910122968</p>
-                        <p class="text-muted email9"><a href="mailto:akashmahajan2998@gmail.com">akashmahajan2998@gmail.com</a></p>
+                        <p class="text-muted no9">+91-9899653685</p>
+                        <p class="text-muted email9"><a href="mailto:pawas.98@gmail.com">pawas.98@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone9" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://m.facebook.com/anshul.agrawal.946179?ref=bookmarks" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/prakhar.agrawal.3910" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail9" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -323,16 +323,16 @@
 			
 			  <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/quizreps/_Shivalik - Ayush De.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Ayush De</h4>
+                        <img src="images/litreps/Rishabh Kumar Shivalik.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Rishabh Kumar</h4>
                         <p class="text-muted">Shivalik Representative</p>
 
-                        <p class="text-muted no10">+91-9711003835</p>
-                        <p class="text-muted email10"><a href="mailto:ayush.de9@gmail.com">ayush.de9@gmail.com</a></p>
+                        <p class="text-muted no10">+91-8696533315</p>
+                        <p class="text-muted email10"><a href="mailto:rishabhrewar97@gmail.com">rishabhrewar97@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone10" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/profile.php?id=100012589716329" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/rkrroxx" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail10" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -345,15 +345,15 @@
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp ">
-                        <img src="images/quizreps/_Udaigiri - Praket Parth.jpg" class="img-responsive img-circle" alt="">
-                       <h4>Praket Parth</h4>
+                        <img src="images/litreps/Rahil Choudhary Udaigiri.jpg" class="img-responsive img-circle" alt="">
+                       <h4>Rahil Choudhary</h4>
                         <p class="text-muted">Udaigiri Representative</p>
-                        <p class="text-muted no11">+91-7289053944</p>
-                        <p class="text-muted email11"><a href="mailto:praket.parth@gmail.com">praket.parth@gmail.com</a></p>
+                        <p class="text-muted no11">+91-9821333765</p>
+                        <p class="text-muted email11"><a href="mailto:rahilrocks20031998@gmail.com">rahilrocks20031998@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone11" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="N/A" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/rahil.choudhary.9828" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail11" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -365,15 +365,15 @@
 
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp ">
-                        <img src="images/quizreps/_VIndhyachal - Siddhartha Kahali.jpg" class="img-responsive img-circle" alt="">
-                       <h4>Siddhartha Kahali</h4>
+                        <img src="images/litreps/Chinmay Rai Vindhyachal.jpg" class="img-responsive img-circle" alt="">
+                       <h4>Chinmay Rai</h4>
                         <p class="text-muted">Vindhyachal Representative</p>
-                        <p class="text-muted no12">+91-9643266739</p>
-                        <p class="text-muted email12"><a href="mailto:donsiddharthakahali@gmail.com">donsiddharthakahali@gmail.com</a></p>
+                        <p class="text-muted no12">+91-8826064810</p>
+                        <p class="text-muted email12"><a href="mailto:chinmayrai01@gmail.com">chinmayrai01@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone12" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://m.facebook.com/snigdha.dalvi" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/chinmay.rai.52" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail12" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -387,15 +387,15 @@
             <div class="row">
                 <div class="col-md-12 animatedParent animateOnce" align="center" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeIn ">
-                        <img src="images/quizreps/_Zanskar - Utkarsh Prajapati.jpg" class="img-responsive img-circle" alt="">
-                       <h4>Utkarsh Prajapati</h4>
+                        <img src="images/litreps/Nitin Yadav Zanskar.jpg" class="img-responsive img-circle" alt="">
+                       <h4>Nitin Yadav</h4>
                         <p class="text-muted">Zanskar Representative</p>
-                        <p class="text-muted no13">+91-8826010396</p>
-                        <p class="text-muted email13"><a href="mailto:utkarshprajapati2709@gmail.com">utkarshprajapati2709@gmail.com</a></p>
+                        <p class="text-muted no13">+91-9671714320</p>
+                        <p class="text-muted email13"><a href="mailto:nitinyadavjps@gmail.com">nitinyadavjps@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone13" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/sambhavkhurana006" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/profile.php?id=100012901512513" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail13" ><i class="fa fa-envelope-o"></i></a>
                             </li>
