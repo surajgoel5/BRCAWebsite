@@ -70,7 +70,7 @@
                         <img src="images/debreps/kaustubh.jpg" class="img-responsive img-circle" alt="">
                         <h4>Kaustubh Saxena</h4>
 
-                        <p class="text-muted">Secretary, Drama Club</p>
+                        <p class="text-muted">Secretary, Debating Club</p>
 
                         <p class="text-muted no">+91-9810215771</p>   
                         <p class="text-muted email"><a href="mailto:kaustubhsaxena21@gmail.com">kaustubhsaxena21@gmail.com</a></p>
