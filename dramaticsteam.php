@@ -63,7 +63,7 @@
             <div class="row">
                 <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-						<img src="images/dramareps/nikhildadheech.jpg" class="img-responsive img-circle" alt="">
+						<img src="images/dramaticsreps/nikhildadheech.jpg" class="img-responsive img-circle" alt="">
                         <h4>Nikhil Dadheech</h4>
                         <p class="text-muted">Secretary, Dramatics Club</p>
                         <p class="text-muted no">+91-8860819864</p>
