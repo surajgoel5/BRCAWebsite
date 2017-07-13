@@ -355,8 +355,8 @@
                         <ul class="list-inline social-buttons">
                             <li><a class="phone11" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="N/A" target="_blank"><i class="fa fa-facebook"></i></a>
-                            </li>
+                            <!--<li><a href="N/A" target="_blank"><i class="fa fa-facebook"></i></a>
+                            </li> -->
                             <li><a  class="mail11" ><i class="fa fa-envelope-o"></i></a>
                             </li>
                             </li>
