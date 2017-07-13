@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Fine Arts Team</title>
+		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -58,13 +58,9 @@
 				</div>
 
 
-			 <section id="team" class="bg-light-gray" >	
-        <div class="container-fluid" id="move">
-
-
-
-           
-<div class="row">
+	 <section id="team" class="bg-light-gray" >	
+        <div class="container-fluid" id="move">           
+            <div class="row">
                 <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
            
@@ -598,14 +594,14 @@
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.dropotron.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
-					<script src="assets/js/jquery.bpopup.min.js"></script>
+			<script src="assets/js/jquery.bpopup.min.js"></script>
 			<script src="assets/js/jquery.onvisible.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>
             <script src='assets/js/css3-animate-it.js'></script>
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/team.js"></script>
-						<script src="magnific-popup/jquery.magnific-popup.js"></script>
+			<script src="magnific-popup/jquery.magnific-popup.js"></script>
 
 	</body>
 </html>
