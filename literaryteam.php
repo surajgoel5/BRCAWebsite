@@ -352,7 +352,7 @@
           <div class="col-md-6  animatedParent animateOnce" data-appear-top-offset='-200'>
               <div class="team-member animated fadeInUp">
                   <img src="images/litreps/Chinmay Rai Vindhyachal.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Chinmay rai</h4>
+                    <h4>Chinmay Rai</h4>
                     <p class="text-muted">Vindhyachal Representative</p>
                     <p class="text-muted no12">+91-8826064810</p>
                     <p class="text-muted email12"><a href="mailto:chinmayrai01@gmail.com">chinmayrai01@gmail.com</a></p>
@@ -377,7 +377,7 @@
           <div class="col-md-12  animatedParent animateOnce" data-appear-top-offset='-200'>
               <div class="team-member animated fadeIn">
                   <img src="images/litreps/Nitin Yadav Zanskar.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Nitin yadav</h4>
+                    <h4>Nitin Yadav</h4>
                     <p class="text-muted">Zanskar Representative</p>
                     <p class="text-muted no13">+91-9671714320</p>
                     <p class="text-muted email13"><a href="mailto:nitinyadavjps@gmail.com">nitinyadavjps@gmail.com</a></p>
