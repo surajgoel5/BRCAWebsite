@@ -66,7 +66,7 @@
                         <img src="images/HSreps/nikhilchauhan.jpg" class="img-responsive img-circle" alt="">
                         <h4>Nikhil Chauhan</h4>
 
-                        <p class="text-muted">Secretary, Hindi Samiti Club</p>
+                        <p class="text-muted">Secretary, Hindi Samiti</p>
 
                         <p class="text-muted no">+91-9560942001/7011354622</p>   
                         <p class="text-muted email"><a href="mailto:nikhilc190@gmail.com">nikhilc190@gmail.com</a></p>
