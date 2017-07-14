@@ -91,7 +91,7 @@
           <div class="col-md-6  animatedParent animateOnce" data-appear-top-offset='-200'>
               <div class="team-member animated fadeInUp">
                   <img src="images/HSreps/_Sunil Kumar_Aravali.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Sunil kumar</h4>
+                    <h4>Sunil Kumar</h4>
                     <p class="text-muted">Aravali Representative</p>
                     <p class="text-muted no1">+91-8130200210</p>
                     <p class="text-muted email1"><a href="mailto:sunilssaharan@gmail.com">sunilssaharan@gmail.com</a></p>
@@ -377,7 +377,7 @@
 
 <div class="row">
           <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
-              <div class="team-member animated fadeInUp">
+              <div class="team-member animated fadeIn">
                   <img src="images/HSreps/_Prabhat_Zanskar.jpg" class="img-responsive img-circle" alt="">
                     <h4>Prabhat Kanaujia</h4>
                     <p class="text-muted">Zanskar Representative</p>
@@ -395,7 +395,7 @@
                 </div>
              </div>
 
-
+			 </div>
 
 
 

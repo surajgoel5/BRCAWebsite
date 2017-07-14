@@ -380,7 +380,7 @@
 
 <div class="row">
           <div class="col-md-12  animatedParent animateOnce" data-appear-top-offset='-200'>
-              <div class="team-member animated fadeInUp">
+              <div class="team-member animated fadeIn">
                   <img src="images/debatingreps/_Udit-Zankar.jpg" class="img-responsive img-circle" alt="">
                     <h4>Udit Raj</h4>
                     <p class="text-muted">Zanskar Representative</p>
@@ -397,7 +397,7 @@
                     </ul>
                 </div>
              </div>
-
+</div>
 
 
 

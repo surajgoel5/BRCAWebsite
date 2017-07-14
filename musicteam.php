@@ -379,7 +379,7 @@
 
 <div class="row">
           <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
-              <div class="team-member animated fadeInUp">
+              <div class="team-member animated fadeIn">
                   <img src="images/musicreps/_Zanskar_Anshuman.png" class="img-responsive img-circle" alt="">
                     <h4>Anshuman Shrivastava</h4>
 						     <p class="text-muted">Zanskar Representative</p>
@@ -396,7 +396,7 @@
                     </ul>
                 </div>
              </div>
-
+			 </div>
 
 
 
