@@ -395,7 +395,7 @@
                             </li>
                             <li><a href="https://www.facebook.com/sen.sandesh" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a  class="mai13" ><i class="fa fa-envelope-o"></i></a>
+                            <li><a  class="mail13" ><i class="fa fa-envelope-o"></i></a>
                             </li>
                             </li>
                         </ul>
