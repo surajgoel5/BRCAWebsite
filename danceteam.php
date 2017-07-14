@@ -94,7 +94,6 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-<<<<<<< HEAD
                         <img src="images/dancereps/vasu_aravali.jpg" class="img-responsive img-circle" alt="">
                        <h4>Vasu</h4>
                         <p class="text-muted">Aravali Representative</p>
@@ -105,20 +104,6 @@
                             </li>
                             <!--<li><a href="N/A" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li> -->
-=======
-                        <img src="images/dancereps/haneesh_kumaon.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Nipun Gupta</h4>
-                        <p class="text-muted">Aravali Representative</p>
-
-                        <p class="text-muted no1">+91-9910243703</p>
-                        <p class="text-muted email1"><a href="mailto:nipungupta98@gmail.com">nipungupta98@gmail.com
-</a></p>
-                        <ul class="list-inline social-buttons">
-                            <li><a class="phone1" ><i class="fa fa-phone "></i></a>
-                            </li>
-                            <li><a href="https://www.facebook.com/nipun.gupta.9066" target="_blank"><i class="fa fa-facebook"></i></a>
-                            </li>
->>>>>>> cd3d2099adbb76965b7a4998fb6e31ab6465b060
                             <li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a>
                             </li>
                             </li>
@@ -402,6 +387,7 @@
                         <img src="images/dancereps/sandesh_zanskar.jpg" class="img-responsive img-circle" alt="">
                         <h4>Sandesh Sen</h4>
                         <p class="text-muted">Zanskar Representative</p>
+
                         <p class="text-muted no13">+91-9782952843</p>
                         <p class="text-muted email13"><a href="mailto:sandeshsen52@gmail.com">sandeshsen52@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
