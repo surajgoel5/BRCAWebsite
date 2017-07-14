@@ -178,7 +178,7 @@
                         <p class="text-muted">Karakoram Representative</p>
 
                         <p class="text-muted no4">+91-9910093404</p>
-                        <p class="text-muted email4"><a href="mailto:akshatagl1@gmail.com"></a></p>
+                        <p class="text-muted email4"><a href="mailto:akshatagl1@gmail.com"></a>akshatagl1@gmail.com</p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone4"  ><i class="fa fa-phone "></i></a>
                             </li>
@@ -251,7 +251,7 @@
                         <ul class="list-inline social-buttons">
                             <li><a class="phone7" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://m.facebook.com/adithya.anand.393" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://facebook.com/adithya.anand.393" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail7" ><i class="fa fa-envelope-o"></i></a>
                             </li>
