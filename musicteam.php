@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Music Team</title>
+		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -58,26 +58,22 @@
 				</div>
 
 
-			 <section id="team" class="bg-light-gray" >	
+	<section id="team" class="bg-light-gray" >	
         <div class="container-fluid" id="move">
-
-
-
-           
-<div class="row">
+            <div class="row">
                 <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/musicreps/prakhar.JPG" class="img-responsive img-circle" alt="">
+                        <img src="images/musicreps/prakhar.jpg" class="img-responsive img-circle" alt="">
                         <h4>Prakhar Singh</h4>
 
                         <p class="text-muted">Secretary, Music Club</p>
 
                         <p class="text-muted no">+91-8860819864</p>   
-                        <p class="text-muted email"><a href="mailto:prakharsingh3012@gmail.com">prakharsingh3012@gmail.com</a></p>
+                        <p class="text-muted email"><a href="mailto:prakharsingh3012@gmail.comm">prakharsingh3012@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://facebook.com/prakhar.singh.5015" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href=https://facebook.com/prakhar.singh.5015 target="_blank"><i class="fa fa-facebook"></i></a>
                             </li> 
                             <li><a class="mail" ><i class="fa fa-envelope-o"></i></a>
 
@@ -91,19 +87,317 @@
 
 
 
-			<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Kumaon_Nishadh.jpg" class="img-responsive img-circle" alt=""><h4>Nishad Singhi</h4><p class="text-muted">Kumaon Representative</p><p class="text-muted no1">+91-8696445400</p><p class="text-muted email1"><a href="mailto:nishadsinghi@gmail.com">nishadsinghi@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/nishad.singhi" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Girnar_Vikram.jpeg" class="img-responsive img-circle" alt=""><h4>Vikram Baranwal</h4><p class="text-muted">Girnar Representative</p><p class="text-muted no1">+91-9891040551</p><p class="text-muted email1"><a href="mailto:vikrambaranwal46@gmail.com">vikrambaranwal46@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/vikram.baranwal.98" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Nilgiri_Kushagra.png" class="img-responsive img-circle" alt=""><h4>Kushaagra Goyal</h4><p class="text-muted">Nilgiri Representative</p><p class="text-muted no1">+91-7015613434</p><p class="text-muted email1"><a href="mailto:kg13344135@gmail.com">kg13344135@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/kushaagra.goyal.33" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Kara_Naman.jpg" class="img-responsive img-circle" alt=""><h4>Naman Upadhyaya</h4><p class="text-muted">Karakoram Representative</p><p class="text-muted no1">+91-8377021992</p><p class="text-muted email1"><a href="mailto:namanupadhyaya98@gmail.com">namanupadhyaya98@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/naman.upadhyaya.5" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Himadri_Pratibha.jpg" class="img-responsive img-circle" alt=""><h4>Prathibha Bharadwaj</h4><p class="text-muted">Himadri Representative</p><p class="text-muted no1">+91-9100593071</p><p class="text-muted email1"><a href="mailto:prathibhabharadwaj3003@gmail.com">prathibhabharadwaj3003@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/prathibha.bharadwaj.1" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Zanskar_Anshuman.png" class="img-responsive img-circle" alt=""><h4>Vinayak Rastogi</h4><p class="text-muted">Jwalamukhi Representative</p><p class="text-muted no1">+91-9582335033</p><p class="text-muted email1"><a href="mailto:vinayakrrrrr@gmail.com">vinayakrrrrr@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/vinayak.rastogi.31" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Satpura_Ravi.jpeg" class="img-responsive img-circle" alt=""><h4>Anshuman Shrivastava</h4><p class="text-muted">Zanskar Representative</p><p class="text-muted no1">+91-8826006145</p><p class="text-muted email1"><a href="mailto:anshumans279@gmail.com">anshumans279@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/profile.php?id=100012641595650" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Shivalik_Adwait.jpg" class="img-responsive img-circle" alt=""><h4>Ravi Kant Singh</h4><p class="text-muted">Satpura Representative</p><p class="text-muted no1">+91-9672951401</p><p class="text-muted email1"><a href="mailto:rvkntsingh105@gmail.com">rvkntsingh105@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/metallicravi" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Udaigiri_Shagun.jpg" class="img-responsive img-circle" alt=""><h4>Adwait Sudersan</h4><p class="text-muted">Shivalik Representative</p><p class="text-muted no1">+91-9643217294</p><p class="text-muted email1"><a href="mailto:adwaitsudersan@gmail.com">adwaitsudersan@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/adwaits1999" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Aravali_Nipun.jpg" class="img-responsive img-circle" alt=""><h4>Shagun Gupta</h4><p class="text-muted">Udaigiri Representative</p><p class="text-muted no1">+91-9540788678</p><p class="text-muted email1"><a href="mailto:shagungupta262@gmail.com">shagungupta262@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/shagun.gupta.946" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Kailash_Kshiti.jpg" class="img-responsive img-circle" alt=""><h4>Nipun Gupta</h4><p class="text-muted">Aravali Representative</p><p class="text-muted no1">+91-9910243703</p><p class="text-muted email1"><a href="mailto:nipungupta98@gmail.com">nipungupta98@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/nipun.gupta.9066" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Jwala_Vinayak.png" class="img-responsive img-circle" alt=""><h4>Kshiti Sneh Rai</h4><p class="text-muted">Kailash Representative</p><p class="text-muted no1">+91-9205202292</p><p class="text-muted email1"><a href="mailto:kshitisneh@gmail.com">kshitisneh@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/kshiti.sneh" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
-<div class="row"><div class="col-md-6 col-sm-6  animatedParent animateOnce" data-appear-top-offset='-200'><div class="team-member animated fadeInUp"><img src="images/musicreps/_Vindy_Shivam.jpg" class="img-responsive img-circle" alt=""><h4>Shivam Singla</h4><p class="text-muted">Vindy Representative</p><p class="text-muted no1">+91-8826009761</p><p class="text-muted email1"><a href="mailto:singlashivam022@gmail.com">singlashivam022@gmail.com</a></p><ul class="list-inline social-buttons"><li><a class="phone1" ><i class="fa fa-phone "></i></a></li><li><a href="https://www.facebook.com/shivam.singla.1004" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a></li></li></ul></div></div>
+<div class="row">
+          <div class="col-md-6  col-sm-6 animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Aravali_Nipun.jpg" class="img-responsive img-circle" alt="">
+                    <h4>Nipun Gupta</h4>
+                    <p class="text-muted">Aravali Representative</p>
+                    <p class="text-muted no1">+91-9910243703</p>
+                    <p class="text-muted email1"><a href="mailto:nipungupta98@gmail.com">nipungupta98@gmail.com</a></p>
+                    <ul class="list-inline social-buttons">
+                        <li><a class="phone1" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/nipun.gupta.9066" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail1" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+
+
+
+
+
+
+
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+					 <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Girnar_Vikram.jpeg" class="img-responsive img-circle" alt="">
+                    <h4>Vikram Baranwal</h4>
+                    <p class="text-muted">Girnar Representative</p>
+                    <p class="text-muted no2">+91-9891040551</p>
+                    <p class="text-muted email2"><a href="mailto:vikrambaranwal46@gmail.com">vikrambaranwal46@gmail.com</a></p>
+                    <ul class="list-inline social-buttons">
+                        <li><a class="phone2" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/vikram.baranwal.98" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail2" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+         </div>
+
+
+
+
+
+<div class="row">
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Himadri_Pratibha.jpg" class="img-responsive img-circle" alt="">
+						  <h4>Prathibha Bharadwaj</h4>
+                    <p class="text-muted">Himadri Representative</p>
+                    <p class="text-muted no3">+91-9100593071</p>
+                    <p class="text-muted email3"><a href="mailto:prathibhabharadwaj3003@gmail.com">prathibhabharadwaj3003@gmail.com</a></p>
+							<ul class="list-inline social-buttons">
+                        <li><a class="phone3" ><i class="fa fa-phone "></i></a>
+								   </li>
+                        <li><a href="https://www.facebook.com/prathibha.bharadwaj.1" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail3" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+
+
+
+
+
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Jwala_Vinayak.png" class="img-responsive img-circle" alt="">
+						   <h4>Vinayak Rastogi</h4>
+                    <p class="text-muted">Jwalamukhi Representative</p>
+                    <p class="text-muted no4">+91-9582335033</p>
+                    <p class="text-muted email4"><a href="mailto:vinayakrrrrr@gmail.com">vinayakrrrrr@gmail.com</a></p>
+					 <ul class="list-inline social-buttons">
+                        <li><a class="phone4" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/vinayak.rastogi.31" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail4" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+         </div>
+
+
+
+
+
+<div class="row">
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Kailash_Kshiti.jpg" class="img-responsive img-circle" alt="">
+					   <h4>Kshiti Sneh Rai</h4>
+                    <p class="text-muted">Kailash Representative</p>
+                    <p class="text-muted no5">+91-9205202292</p>
+                    <p class="text-muted email5"><a href="mailto:kshitisneh@gmail.com">kshitisneh@gmail.com</a></p>
+                    <ul class="list-inline social-buttons">
+                        <li><a class="phone5" ><i class="fa fa-phone "></i></a>
+                        </li>
+						  <li><a href="https://www.facebook.com/kshiti.sneh" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail5" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+
+
+
+
+
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+				        <img src="images/musicreps/_Kara_Naman.jpg" class="img-responsive img-circle" alt="">
+                    <h4>Naman Upadhyaya</h4>
+                    <p class="text-muted">Karakoram Representative</p>
+                    <p class="text-muted no6">+91-8377021992</p>
+                    <p class="text-muted email6"><a href="mailto:namanupadhyaya98@gmail.com">namanupadhyaya98@gmail.com</a></p>
+					       <ul class="list-inline social-buttons">
+                        <li><a class="phone6" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/naman.upadhyaya.5" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail6" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+         </div>
+
+
+
+
+
+<div class="row">
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Kumaon_Nishadh.jpg" class="img-responsive img-circle" alt="">
+						      <h4>Nishad Singhi</h4>
+                    <p class="text-muted">Kumaon Representative</p>
+                    <p class="text-muted no7">+91-8696445400</p>
+					      <p class="text-muted email7"><a href="mailto:nishadsinghi@gmail.com">nishadsinghi@gmail.com</a></p>
+                    <ul class="list-inline social-buttons">
+                        <li><a class="phone7" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/nishad.singhi" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail7" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+
+
+
+
+
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Nilgiri_Kushagra.png" class="img-responsive img-circle" alt="">
+                    <h4>Kushaagra Goyal</h4>
+                    <p class="text-muted">Nilgiri Representative</p>
+                    <p class="text-muted no8">+91-7015613434</p>
+						   <p class="text-muted email8"><a href="mailto:kg13344135@gmail.com">kg13344135@gmail.com</a></p>
+                    <ul class="list-inline social-buttons">
+                        <li><a class="phone8" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/kushaagra.goyal.33" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail8" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+         </div>
+
+
+
+
+
+<div class="row">
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Satpura_Ravi.jpeg" class="img-responsive img-circle" alt="">
+                    <h4>Ravi Kant Singh</h4>
+                    <p class="text-muted">Satpura Representative</p>
+                    <p class="text-muted no9">+91-9672951401</p>
+                    <p class="text-muted email9"><a href="mailto:rvkntsingh105@gmail.com">rvkntsingh105@gmail.com</a></p>
+                    <ul class="list-inline social-buttons">
+                        <li><a class="phone9" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/metallicravi" target="_blank"><i class="fa fa-facebook"></i></a>
+				           </li>
+                        <li><a  class="mail9" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+
+
+
+
+
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Shivalik_Adwait.jpg" class="img-responsive img-circle" alt="">
+						      <h4>Adwait Sudersan</h4>
+                    <p class="text-muted">Shivalik Representative</p>
+                    <p class="text-muted no10">+91-9643217294</p>
+                    <p class="text-muted email10"><a href="mailto:adwaitsudersan@gmail.com">adwaitsudersan@gmail.com</a></p>
+                    <ul class="list-inline social-buttons">
+                        <li><a class="phone10" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/adwaits1999" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail10" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+         </div>
+
+
+
+
+
+<div class="row">
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+			       <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Udaigiri_Shagun.jpg" class="img-responsive img-circle" alt="">
+                    <h4>Shagun Gupta</h4>
+                    <p class="text-muted">Udaigiri Representative</p>
+                    <p class="text-muted no11">+91-9540788678</p>
+                    <p class="text-muted email11"><a href="mailto:shagungupta262@gmail.com">shagungupta262@gmail.com</a></p>
+                    <ul class="list-inline social-buttons">
+                        <li><a class="phone11" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/shagun.gupta.946" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail11" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+
+
+
+
+
+          <div class="col-md-6   animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Vindy_Shivam.jpg" class="img-responsive img-circle" alt="">
+                    <h4>Shivam Singla</h4>
+                    <p class="text-muted">Vindhyanchal Representative</p>
+                    <p class="text-muted no12">+91-8826009761</p>
+                    <p class="text-muted email12"><a href="mailto:singlashivam022@gmail.com">singlashivam022@gmail.com</a></p>
+                    <ul class="list-inline social-buttons">
+                        <li><a class="phone12" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/shivam.singla.1004" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail12" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+         </div>
+
+
+
+
+
+<div class="row">
+          <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
+              <div class="team-member animated fadeInUp">
+                  <img src="images/musicreps/_Zanskar_Anshuman.png" class="img-responsive img-circle" alt="">
+                    <h4>Anshuman Shrivastava</h4>
+						     <p class="text-muted">Zanskar Representative</p>
+                    <p class="text-muted no13">+91-8826006145</p>
+                    <p class="text-muted email13"><a href="mailto:anshumans279@gmail.com">anshumans279@gmail.com</a></p>
+                    <ul class="list-inline social-buttons">
+                        <li><a class="phone13" ><i class="fa fa-phone "></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/profile.php?id=100012641595650" target="_blank"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a  class="mail13" ><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+             </div>
+
+
 
 
 
