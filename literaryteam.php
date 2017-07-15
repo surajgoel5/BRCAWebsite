@@ -209,7 +209,7 @@
               <div class="team-member animated fadeInUp">
                   <img src="images/litreps/Pranav Bhagat Karakoram.jpg" class="img-responsive img-circle" alt="">
                     <h4>Pranav Bhagat</h4>
-                    <p class="text-muted">Karakoran Representative</p>
+                    <p class="text-muted">Karakoram Representative</p>
                     <p class="text-muted no6">+91-8826077611</p>
                     <p class="text-muted email6"><a href="mailto:pranavbhagat5@outlook.com">pranavbhagat5@outlook.com</a></p>
                     <ul class="list-inline social-buttons">
@@ -258,7 +258,7 @@
                   <img src="images/litreps/Swapnesh Agrawal Nilgiri.jpg" class="img-responsive img-circle" alt="">
                     <h4>Swapnesh Agrawal</h4>
                     <p class="text-muted">Nilgiri Representative</p>
-                    <p class="text-muted no8">+91-9425955627 / 9582760964</p>
+                    <p class="text-muted no8">+91-9425955627/9582760964</p>
                     <p class="text-muted email8"><a href="mailto:swapneshsagrawal@gmail.com">swapneshsagrawal@gmail.com</a></p>
                     <ul class="list-inline social-buttons">
                         <li><a class="phone8" ><i class="fa fa-phone "></i></a>
