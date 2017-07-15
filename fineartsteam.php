@@ -68,7 +68,7 @@
                         <h4>Saurabh Pal</h4>
                         <p class="text-muted">Secretary, Fine Arts and Crafts Club</p>
 
-                        <p class="text-muted no">+91-9694458113</p>
+                        <p class="text-muted no">+91-7840042011</p>
                         <p class="text-muted email"><a href="mailto:bestpal97@gmail.com">bestpal97@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone"  ><i class="fa fa-phone "></i></a>
@@ -125,7 +125,7 @@
                         <ul class="list-inline social-buttons">
                             <li><a class="phone2" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/siddheshatul.gandhi" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail2" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -179,7 +179,7 @@
                         <p class="text-muted">Karakoram Representative</p>
 
                         <p class="text-muted no4">+91-9839202050</p>
-                        <p class="text-muted email4"><a href="mailto:"></a></p>
+                        <p class="text-muted email4"><a href="mailto:amansinghal722@gmail.com">amansinghal722@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone4"  ><i class="fa fa-phone "></i></a>
                             </li>
@@ -229,7 +229,7 @@
                         <ul class="list-inline social-buttons">
                             <li><a class="phone6" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://m.facebook.com/profile.php?id=100000714864112&fref=search" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/profile.php?id=100000714864112&fref=search" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail6" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -275,12 +275,12 @@
                         <h4>Manav Rao</h4>
                         <p class="text-muted">Nilgiri Representative</p>
 
-                        <p class="text-muted no8">N/A</p>
-                        <p class="text-muted email8"><a href="mailto:N/A">N/A</a></p>
+                        <p class="text-muted no8">+91-8826012560</p>
+                        <p class="text-muted email8"><a href="mailto:rao.manav20@gmail.com">rao.manav20@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone8"  ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/manav.rao1998" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a   class="mail8" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -332,7 +332,7 @@
                         <ul class="list-inline social-buttons">
                             <li><a class="phone10" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://m.facebook.com/profile.php?slog=94&seq=173275167&rk=1&st=self&fbtype=2048&fref=search" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/profile.php?slog=94&seq=173275167&rk=1&st=self&fbtype=2048&fref=search" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail10" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -396,7 +396,7 @@
                         <p class="text-muted">Zanskar Representative</p>
 
                         <p class="text-muted no13">+91-9891029591</p>
-                        <p class="text-muted email13"><a href="mailto:">N/A</a></p>
+                        <p class="text-muted email13"><a href="mailto:ravisinghiitd03@gmail.com">ravisinghiitd03@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone13" ><i class="fa fa-phone "></i></a>
                             </li>

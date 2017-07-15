@@ -66,7 +66,7 @@
 						<img src="images/dramaticsreps/nikhildadheech.jpg" class="img-responsive img-circle" alt="">
                         <h4>Nikhil Dadheech</h4>
                         <p class="text-muted">Secretary, Dramatics Club</p>
-                        <p class="text-muted no">+91-8860819864</p>
+                        <p class="text-muted no">+91-9560937005</p>
                         <p class="text-muted email"><a href="mailto:nikhild.dakshana15@gmail.com">nikhild.dakshana15@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone"  ><i class="fa fa-phone "></i></a>
@@ -178,7 +178,7 @@
                         <p class="text-muted">Karakoram Representative</p>
 
                         <p class="text-muted no4">+91-9910093404</p>
-                        <p class="text-muted email4"><a href="mailto:akshatagl1@gmail.com"></a></p>
+                        <p class="text-muted email4"><a href="mailto:akshatagl1@gmail.com"></a>akshatagl1@gmail.com</p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone4"  ><i class="fa fa-phone "></i></a>
                             </li>
@@ -251,7 +251,7 @@
                         <ul class="list-inline social-buttons">
                             <li><a class="phone7" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href="https://m.facebook.com/adithya.anand.393" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://facebook.com/adithya.anand.393" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail7" ><i class="fa fa-envelope-o"></i></a>
                             </li>
@@ -294,16 +294,16 @@
             <div class="row">
                 <div class="col-md-6 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
-                        <img src="images/faccreps/_Animesh Singh _satpura.jpg" class="img-responsive img-circle" alt="">
-                         <h4>Animesh Singh</h4>
+                        <img src="images/dramaticsreps/_MayankMishra_Satpura.jpg" class="img-responsive img-circle" alt="">
+                         <h4>Mayank Mishra</h4>
                         <p class="text-muted">Satpura Representative</p>
 
-                        <p class="text-muted no9">+91-9999420866</p>
-                        <p class="text-muted email9"><a href="mailto:animesh.singh.jay@gmail.com">animesh.singh.jay@gmail.com</a></p>
+                        <p class="text-muted no9">+91-8130991940</p>
+                        <p class="text-muted email9"><a href="mailto:mayankmishra0126@gmail.com">mayankmishra0126@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
                             <li><a class="phone9" ><i class="fa fa-phone "></i></a>
                             </li>
-                            <li><a href=https://www.facebook.com/animesh.singh.jay" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/mayank.mishra.77770194" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li><a  class="mail9" ><i class="fa fa-envelope-o"></i></a>
                             </li>

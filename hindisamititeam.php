@@ -45,7 +45,7 @@
                     <!-- Inner -->
 						<div class="inner animatedParent animateOnce" data-sequence='700'>
 							<header>
-								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>Hindi Samiti Team</a></h1>
+								<h1><a id="logo" class="animated fadeIn slower" data-id='1'>Hindi Samiti</a></h1>
                                 <h2><a id="logo" class="animated fadeIn slower" data-id='2'><span id="colored">2017-18</span></a></h2>
 							</header>
 							<footer class="foot">
