@@ -52,13 +52,13 @@
 			</div> 
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
+		    <a href="dance-events.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
 		    <a href="danceteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
 		    <a href="https://drive.google.com/drive/folders/0B1vLhp0aiT7efmQzUEZLNGxOQ3BjMGNIZ1N2cTl4cnJBUWFRVmt5WXMtTzRZUmF5QVNWOGc" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
 			<header>
-			<!--Might have to change it-->				
+			<!--Updated-->				
     			<p class="animated fadeIn slower" data-id='2'>
 				With the philosophy “Love the art in yourself and not yourself in the art”, the Dance Club is one of the most glamorous clubs in the BRCA. The audience participation in this club is overwhelming, and the Duo Dance and the Group Dance events are among the most eagerly awaited events of the year. The Institute Dance Production, organized towards the end of the year is the magnum opus of the club, and it also provides aspiring students a platform to improve their skills. V-Defyn, IIT Delhi’s dance troupe, has grown into a professional group of dancers who have brought many laurels to the college in recent years.
 			    </p>
@@ -67,10 +67,13 @@
 		<div id="rotating-pics" class="animatedParent animateOnce" data-sequence='700'>
 		    <div id='ninja-slider' class="animated fadeIn slower" data-id='2'>
                 <ul>
-                    <li><div data-image=" images/images-dance/do1.jpg"></div></li>
-                    <li><div data-image=" images/images-dance/do2.jpg"></div></li>
-                    <li><div data-image=" images/images-dance/d03.jpg"></div></li>
-                     <li><div data-image=" images/images-dance/d05.jpg"></div></li>
+                    <li><div data-image=" images/dance-images/1.jpg"></div></li>
+                    <li><div data-image=" images/dance-images/2.jpg"></div></li>
+                    <li><div data-image=" images/dance-images/3.jpg"></div></li>
+                    <li><div data-image=" images/dance-images/4.jpg"></div></li>
+                    <li><div data-image=" images/dance-images/5.jpg"></div></li>
+                    <li><div data-image=" images/dance-images/6.jpg"></div></li>
+                    <li><div data-image=" images/dance-images/7.jpg"></div></li>
                 </ul>
             </div>
 		</div>
