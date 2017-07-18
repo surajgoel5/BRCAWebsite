@@ -220,7 +220,7 @@
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Amethysta', serif!important;
 		font-weight: 300;
 	}
 
@@ -1435,6 +1435,30 @@
 				padding-bottom: 1px;
 			}
 
+			#dummy-id{
+				-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				padding-bottom: 1px;
+			}
+
+			#foot{
+				-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				padding-bottom: 1px;
+			}
+
 			#navButton {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
@@ -1575,6 +1599,20 @@
 				}
 
 			body.navPanel-visible #page-wrapper {
+				-moz-transform: translateY(50vh);
+				-webkit-transform: translateY(50vh);
+				-ms-transform: translateY(50vh);
+				transform: translateY(50vh);
+			}
+
+			body.navPanel-visible #dummy-id{
+				-moz-transform: translateY(50vh);
+				-webkit-transform: translateY(50vh);
+				-ms-transform: translateY(50vh);
+				transform: translateY(50vh);
+			}
+
+			body.navPanel-visible #foot{
 				-moz-transform: translateY(50vh);
 				-webkit-transform: translateY(50vh);
 				-ms-transform: translateY(50vh);
@@ -2015,6 +2053,7 @@ font-family: 'Droid Serif', Georgia, Times, serif;
 
 .foot{
 	padding-top:0px;
+	margin-top: -70px!important;
 }
 
 .cl-effect-14 a {
@@ -2090,9 +2129,7 @@ font-family: 'Droid Serif', Georgia, Times, serif;
 	outline: none;
 	color: #fff;
 	text-decoration: none;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-	font-weight: 400;
+	
 	text-shadow: 0 0 1px rgba(255,255,255,0.3);
 	font-size: 1.8vw;
 	border:0px;

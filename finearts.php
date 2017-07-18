@@ -5,6 +5,12 @@
 		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
@@ -25,12 +31,7 @@
     
         <!-- Custom Fonts -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-        <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-        <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
 
 		
 		
@@ -52,27 +53,30 @@
 			</div> 
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
+		    <a href="finearts-events.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
 		    <a href="fineartsteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
 		    <a href="https://drive.google.com/drive/folders/0B1vLhp0aiT7efllDbkxmbmxPSDNDMlRrSlhyR0x2d2JBbFNxRjRtWEMweFJ6Q2VSNFhsNzQ" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
 			<header>	
-			<!--It is updated-->			
+			<!--Updated-->			
     			<p class="animated fadeIn slower" data-id='2'>
 				FACC is the perfect platform for you to showcase your artistic capabilities and also learn a various new art-forms. With events like Oil Painting, Charcoal Painting, Mask Painting and workshops on artistic activities like Origami, there is a lot to fulfill your creative appetite. The club also organizes various events such as Street Painting, Graffiti, Face Painting etc during Rendezvous. The FAC junta is renowned for its untiring efforts, and is one of closest knit communities on campus.
 			    </p>
 			</header>
 		</section>
-		<div id="rotating-pics" class="animatedParent animateOnce" data-sequence='700'>
+		<div id="dummy-id" class="animatedParent animateOnce" data-sequence='700'>
 		    <div id='ninja-slider' class="animated fadeIn slower" data-id='2'>
                 <ul>
-                    <li><div data-image="images/fac-images/fac4.jpg"></div></li>
-                    <li><div data-image="images/fac-images/fac1.jpg"></div></li>
-                    <li><div data-image="images/fac-images/fac2.jpg"></div></li>
-                    <li><div data-image="images/fac-images/fac3.jpg"></div></li>
-                    <li><div data-image="images/fac-images/fac5.jpg"></div></li>
-                    <li><div data-image="images/fac-images/fac6.jpg"></div></li>
+                    <li><div data-image="images/fac-images/1.jpg"></div></li>
+                    <li><div data-image="images/fac-images/2.jpg"></div></li>
+                    <li><div data-image="images/fac-images/3.jpg"></div></li>
+                    <li><div data-image="images/fac-images/4.jpg"></div></li>
+                    <li><div data-image="images/fac-images/5.jpg"></div></li>
+                    <li><div data-image="images/fac-images/6.jpg"></div></li>
+                    <li><div data-image="images/fac-images/7.jpg"></div></li>
+                    <li><div data-image="images/fac-images/8.jpg"></div></li>
+                    <li><div data-image="images/fac-images/9.jpg"></div></li>
                 </ul>
             </div>
 		</div>

@@ -1,41 +1,40 @@
 <!DOCTYPE HTML>
 
 <html>
-	<head>
-		<title>BRCA, IIT Delhi</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/secys.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <head>
+        <title>BRCA, IIT Delhi</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
+        <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="assets/css/secys.css" />
+        <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
-<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="assets/css/animations.css">
-		 <!-- Bootstrap Core CSS -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-
+        <link rel="stylesheet" href="assets/css/animations.css">
+         
+    <!-- Bootstrap Core CSS -->
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/animations.css">
 
     <!-- Custom CSS -->
-    
-	<link rel="stylesheet" href="magnific-popup/magnific-popup.css">
+        <link rel="stylesheet" href="magnific-popup/magnific-popup.css">
+
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-   <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
-
-
-    
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-	</head>
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+  	</head>
 	<body class="homepage">
 		<div id="page-wrapper">
 

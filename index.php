@@ -5,11 +5,24 @@
 		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->		
 		<link rel="stylesheet" href="assets/css/home.css" />
-		<link rel="stylesheet" href="assets/css/animations.css">
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+
+		<!-- Bootstrap Core CSS -->
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/animations.css">
+
+        <!-- Custom Fonts -->
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
 	</head>
 	<body class="homepage">
 
@@ -22,7 +35,7 @@
 					<!-- Inner -->
 						<div class="inner">
 							<header>
-								<h1><a  id="logo">BRCA, <span class="iit"> IIT Delhi</span> </a></h1>
+								<h1><a id="logo" style="text-decoration: none">BRCA, <span class="iit"> IIT Delhi</span> </a></h1>
 								
 								<p>Board for Recreational and Creative Activities</p>
 							

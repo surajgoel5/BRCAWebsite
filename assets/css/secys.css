@@ -219,7 +219,7 @@
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Amethysta', serif!important;
 		font-weight: 300;
 	}
 
@@ -1430,6 +1430,30 @@
 				padding-bottom: 1px;
 			}
 
+			#dummy-id{
+				-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				padding-bottom: 1px;
+			}
+
+			#foot{
+				-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				padding-bottom: 1px;
+			}
+
 			#navButton {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
@@ -1577,6 +1601,20 @@
 			}
 
 			body.navPanel-visible #navButton {
+				-moz-transform: translateY(50vh);
+				-webkit-transform: translateY(50vh);
+				-ms-transform: translateY(50vh);
+				transform: translateY(50vh);
+			}
+
+			body.navPanel-visible #dummy-id{
+				-moz-transform: translateY(50vh);
+				-webkit-transform: translateY(50vh);
+				-ms-transform: translateY(50vh);
+				transform: translateY(50vh);
+			}
+
+			body.navPanel-visible #foot{
 				-moz-transform: translateY(50vh);
 				-webkit-transform: translateY(50vh);
 				-ms-transform: translateY(50vh);

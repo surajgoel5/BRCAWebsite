@@ -5,6 +5,12 @@
 		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
@@ -25,12 +31,7 @@
     
         <!-- Custom Fonts -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-        <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-        <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
 
 		
 		
@@ -52,25 +53,30 @@
 			</div> 
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
+		    <a href="hindi-events.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
 		    <a href="hinditeam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
 		    <a href="https://drive.google.com/folderview?id=0BxS0qg2VyKWEfmRPNDRycE9lWWxrSUZoc0JGS1pYNGtZRjhoOW02S2J3eGc4ZHAxZll5V1E&usp=sharing_eid" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
 			<header>	
-			<!--Might have to change it-->			
+			<!--Updated-->			
     			<p class="animated fadeIn slower" data-id='2'>
-				A sad side effect of globalization has been a gradual cutoff and diminishing importance for local languages, especially in urban areas like Delhi. It then becomes more and more important to hold onto one’s culture. The Hindi Samiti celebrates all things Indian and then some. Indeed, most Hindi Samiti debates show remarkable maturity and brilliant thinking on the part of the participants. With other entertaining events like Sopan (the India Quiz), Word Games etc, the Hindi Samiti has made a special place for itself in IIT.
+				A sad side effect of globalization has been a gradual cutoff and diminishing importance for local languages, especially in urban areas like Delhi. It then becomes more and more important to hold onto one’s culture. The Hindi Samiti celebrates all things Indian and then some. Indeed, most Hindi Samiti debates show remarkable maturity and brilliant thinking on the part of the participants. With other entertaining events like Chakravyuh (Bollywood Quiz), Shabdvyuh (Word Games), Andaz-e-Bayan etc, the Hindi Samiti has made a special place for itself in IIT.
 			    </p>
 			</header>
 		</section>
-		<div id="rotating-pics" class="animatedParent animateOnce" data-sequence='700'>
+		<div id="dummy-id" class="animatedParent animateOnce" data-sequence='700'>
 		    <div id='ninja-slider' class="animated fadeIn slower" data-id='2'>
                 <ul>
-                    <li><div data-image="images/hindi-images/hi4.jpg"></div></li>
-                    <li><div data-image="images/hindi-images/hi2.jpg"></div></li>
-                    <li><div data-image="images/hindi-images/hi3.jpg"></div></li>
-                    <li><div data-image="images/hindi-images/hi1.jpg"></div></li>
+                    <li><div data-image="images/hindi-images/1.jpg"></div></li>
+                    <li><div data-image="images/hindi-images/2.jpg"></div></li>
+                    <li><div data-image="images/hindi-images/3.jpg"></div></li>
+                    <li><div data-image="images/hindi-images/4.jpg"></div></li>
+                    <li><div data-image="images/hindi-images/5.jpg"></div></li>
+                    <li><div data-image="images/hindi-images/6.jpg"></div></li>
+                    <li><div data-image="images/hindi-images/7.jpg"></div></li>
+                    <li><div data-image="images/hindi-images/8.jpg"></div></li>
+                    <li><div data-image="images/hindi-images/9.jpg"></div></li>
                 </ul>
             </div>
 		</div>

@@ -3,38 +3,37 @@
 <html>
 	<head>
 		<title>BRCA, IIT Delhi</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/secys.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
+        <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="assets/css/secys.css" />
+        <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
-<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="assets/css/animations.css">
-		 <!-- Bootstrap Core CSS -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-
+        <link rel="stylesheet" href="assets/css/animations.css">
+         
+    <!-- Bootstrap Core CSS -->
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/animations.css">
 
     <!-- Custom CSS -->
-    
-	<link rel="stylesheet" href="magnific-popup/magnific-popup.css">
+        <link rel="stylesheet" href="magnific-popup/magnific-popup.css">
+
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-   <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
-
-
-    
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
 	</head>
 	<body class="homepage">
 		<div id="page-wrapper">
@@ -402,122 +401,6 @@
                     </div>
                 </div>
             </div>
-
-<!--
-
-<div class="container">
-<h2 style="text-align:center">Design Team</h2>
-<br>
-<br>
-<br>
-
-             <div class="row animatedParent animateOnce" data-appear-top-offset='-200'>
-                <div class="col-md-3">
-                    <div class="team-member animated fadeIn">
-                        <img src="images/team/shivam.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Shivam Saxena</h4>
-                        <p class="text-muted">Web Designer</p>
-
-                        <p class="text-muted no14">+91 9717695431</p>
-                        <p class="text-muted email14">shivam.iitd8@gmail.com</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a class="phone14" ><i class="fa fa-phone "></i></a>
-                            </li>
-                            <li><a href="https://www.facebook.com/shivam.saxena.75?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a  class="mail14" ><i class="fa fa-envelope-o"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-               
-                
-            
-
-
-            
-                <div class="col-md-3">
-                    <div class="team-member animated fadeIn">
-                        <img src="images/team/vasu.jpg" class="img-responsive img-circle" alt="">
-                       <h4>Vishva Sharma</h4>
-                        <p class="text-muted">Graphic Designer</p>
-                        <p class="text-muted no11">+91 9971756794</p>
-                        <p class="text-muted email11">vasusharma0902@gmail.com</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a class="phone11" ><i class="fa fa-phone "></i></a>
-                            </li>
-                            <li><a href="https://www.facebook.com/vish.vasu?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a  class="mail11" ><i class="fa fa-envelope-o"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                 <div class="col-md-3">
-                    <div class="team-member animated fadeIn">
-                        <img src="images/team/rahul.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Rahul Gupta</h4>
-                        <p class="text-muted">Back-end Programmer</p>
-
-                        <p class="text-muted no12">+91 9999095885</p>
-                        <p class="text-muted email12">rahulgupta.2014.iitd@gmail.com</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a class="phone12" ><i class="fa fa-phone "></i></a>
-                            </li>
-                            <li><a><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a  class="mail12" ><i class="fa fa-envelope-o"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-               
-                
-            
-
-
-            
-                <div class="col-md-3">
-                    <div class="team-member animated fadeIn" >
-                        <img src="images/team/prateek.jpg" class="img-responsive img-circle" alt="">
-                       <h4>Prateek Garg</h4>
-                        <p class="text-muted">App Developer</p>
-                        <p class="text-muted no13">+91 9717278729</p>
-                        <p class="text-muted email13">prateekgarg95@gmail.com</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a class="phone13" ><i class="fa fa-phone "></i></a>
-                            </li>
-                            <li><a href="https://www.facebook.com/prateekgarg95?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a  class="mail13" ><i class="fa fa-envelope-o"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-               </div>
-                
-            </div>
-
-
-
-
-
-
-
-
-
-
-
-
-            
-
-
-
-
-            
-        </div> -->
-
   </section>
 
 

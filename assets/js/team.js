@@ -571,6 +571,25 @@ $(document).ready(function() {
 });
 
 
+$(document).ready(function() {
+  $('.no15, .email15').hide();
+
+  $('.phone15').click(function() {
+    $('.email15').slideUp(function() {
+      $('.no15').slideToggle();
+    });
+  });
+
+  $('.mail15').click(function() {
+    $('.no15').slideUp(function() {
+      $('.email15').slideToggle();
+    });
+  });
+});
+
+
+
+
 
 
 

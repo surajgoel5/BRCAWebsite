@@ -5,6 +5,12 @@
 		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
@@ -25,12 +31,7 @@
     
         <!-- Custom Fonts -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-        <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-        <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+       <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
 		
 	</head>
 	<body class="homepage">
@@ -56,8 +57,7 @@
 
         <div class="animatedParent animateOnce" data-sequence='700'>
 		<!-- Carousel -->
-		<!-- Carousel Image needs to be updated!!!-->
-		    <section class="carousel animated fadeIn slower" data-id='2'>
+		    <section  id="dummy-id" class="carousel animated fadeIn slower" data-id='2'>
 		    <!-- Remove style="..." and align="center"iff Events more
 		         than 4-->
 		    <!-- For Events <=4 you need to adjust manually. 
@@ -68,55 +68,40 @@
 				    	<header class="active">
 					    	<h6><a data-toggle="tab" href="#duo">Duo Dance<br></a></h6>
 					    </header>
-					    <p>Mid August</p>
+					    <p>Mid August, 2017</p>
 				    </article>
 				    <article>
 					    <a class="image featured"><img src=" images/dance-images/gd.jpg" alt="" /></a>
-					<header>
-						<h6><a data-toggle="tab" href="#gd">Group Dance</a></h6>
+					    <header>
+						    <h6><a data-toggle="tab" href="#gd">Group Dance</a></h6>
 			    		</header>
-				    	<p>Last week of January</p>
+				    	<p>Last week of January, 2018</p>
 				    </article>
 				    <article>
-					    <a class="image featured"><img src=" images/images-dance/fvm.jpg" alt="" /></a>
+					    <a class="image featured"><img src=" images/dance-images/fvm.jpg" alt="" /></a>
 				    	<header>
 					    	<h6><a data-toggle="tab" href="#fvm">Fresher’s Video Making</a></h6>
 					    </header>
-					    <p>Mid March</p>
+					    <p>Mid March, 2018</p>
 			    	</article>
     				<article>
 	    				<a class="image featured"><img src=" images/dance-images/idp.jpg" alt="" /></a>
 	    				<header>
 		    				<h6><a data-toggle="tab" href="#idp"> Institute Dance Production (IDP)</a></h6>
 				    	</header>
-					    <p>Third week of April</p>
+					    <p>Third week of April, 2018</p>
 			    	</article>
-            <!-- Useless stuff. to be deleted 
-				<article>
-					<a class="image featured"><img src=" images/images-dance/workshops2.jpg" alt="" /></a>
-					<header>
-						<h6><a data-toggle="tab" href="#event5">Useless#1</a></h6>
-					</header>
-					<p>Throughout the semester on weekends</p>
-				</article>
-				<article>
-					<a class="image featured"><img src=" images/images-dance/idp.jpg" alt="" /></a>
-					<header>
-						<h6><a data-toggle="tab" href="#event6">Useless#2</a></h6>
-					</header>
-					<p>19th April, 2016</p>
-				</article> -->
 			    </div> 
 		    </section> 
 		</div>
         <div id="description" class="animatedParent animateOnce" data-sequence='700'>
-            <section  class="tab-content">
+            <section  class="tab-content"  id="dummy-id">
                 <article id="duo" class="tab-pane fade active in animated fadeIn slower" data-id='2'>
                     <h1>Duo Dance</h1>
                     <p>IIT Delhi presents inter-hostel duo dance competition where the irresistible dancing sensations will make you thump to their beats. This is the first event organised for the fuchas to give them a glimpse of the sensational dancing world of IIT Delhi. The stupendous moves and jhatkas will make you want more and more! Put on your shoes and waltz, salsa and cha cha your way into the world of incredible duet performances!
                     </p>
-                    <div id="rotating-pics" style="padding-top: 10px">
-                        <div id="ninja-slider">
+                    <div style="padding-top: 10px">
+                        <div id="ninja-slider1">
                             <ul>
                                 <li><div data-image=" images/dance-images/duo/1.jpg"></div></li>
                                 <li><div data-image=" images/dance-images/duo/2.jpg"></div></li>
@@ -129,13 +114,50 @@
                     </div>
                 </article>
                 <article id="gd" class="tab-pane fade animated fadeIn slower" data-id='2'>
-                    <p>Event 2 description</p>
+                    <h1>Group Dance</h1>
+                    <p style="text-align: center">To dance is to be out of yourself. Larger, more beautiful, more powerful.</p> 
+                    <p style="text-align: right">~Agnes De Mille</p>
+                    <p>
+                    It is one of the most awaited and enigmatic cult events of IIT Delhi. The unparalleled energy and the sizzling moves of the talented fachas and super talented seniors is bound to steal your hearts away. Come witness for yourself the breathtaking dance performances of our very own dancing champs.
+                    </p>
+                    <div style="padding-top: 10px">
+                        <div id="ninja-slider2">
+                            <ul>
+                                <li><div data-image=" images/dance-images/gd/1.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/gd/2.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/gd/3.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/gd/4.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/gd/5.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/gd/6.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/gd/7.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/gd/8.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/gd/9.jpg"></div></li>
+                            </ul>
+                        </div>
+                    </div>
                 </article>
-                <article id="idp" class="tab-pane fade animated fadeIn slower" data-id='2'>
-                    <p>Event 3 description</p>
+                <article id="fvm" class="tab-pane fade animated fadeIn slower" data-id='2'>
+                    <h1>Fresher's Video Making</h1>
+                    <p>The most addictive rush of the session, a fresher only event, conducted for the first time ever, where you have to get your creative juices flowing and combine your dance skills with your ability to handle a camera to create something which is much bigger than anything else.</p>
                 </article>
-                <article id="fvm" class="tab-pane fade animated fadeIn slower" data-id='2' style="padding-bottom: 43.3px">
-                    <p>Event 4 description</p>
+                <article id="idp" class="tab-pane fade animated fadeIn slower" data-id='2' style="padding-bottom: 43.3px">
+                    <h1>Institute Dance Production (IDP)</h1>
+                    <p>Hostels and events may divide us, but when it comes to dance, there is nothing we enjoy more than putting up the best performance we can. Watch the entire dance fraternity of IIT Delhi come out and put on their dancing shoes to vow you with their moves,as we bid adieu to this academic year in our very own glamorous style.</p>
+                    <div style="padding-top: 10px">
+                        <div id="ninja-slider3">
+                            <ul>
+                                <li><div data-image=" images/dance-images/idp/1.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/idp/2.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/idp/3.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/idp/4.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/idp/5.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/idp/6.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/idp/7.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/idp/8.jpg"></div></li>
+                                <li><div data-image=" images/dance-images/idp/9.jpg"></div></li>
+                            </ul>
+                        </div>
+                    </div>
                 </article>
             </section>
         </div>

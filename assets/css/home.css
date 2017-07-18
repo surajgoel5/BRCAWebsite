@@ -1558,7 +1558,7 @@
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Amethysta', serif!important;
 		font-weight: 300;
 	}
 
@@ -2193,8 +2193,8 @@
 /* Nav */
 
 	#nav {
-		position: fixed;
-		top: 0;
+		position: absolute;
+		top: 14px;
 		left: 0;
 		width: 100%;
 		text-align: center;
@@ -2214,7 +2214,7 @@
 		}
 
 			#nav > ul:before, #nav > ul:after {
-				
+				content: '';
 				display: block;
 				width: 300%;
 				position: absolute;
@@ -2260,7 +2260,6 @@
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
 					color: inherit;
-					font-size:22px;
 					text-decoration: none;
 					border: 0;
 					outline: 0;
@@ -2299,15 +2298,21 @@
 				display: block;
 				border: 0;
 				padding: 0.5em 0 0.5em 0;
+				color: #5b5b5b;
+				text-decoration: none;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
 				transition: color 0.35s ease-in-out;
 			}
 
+			.dropotron li a:hover{
+				color: #337ab7;
+			}
+
 		.dropotron.level-0 {
 			margin-top: 2em;
-			font-size: 0.9em;
+			font-size: 1.15em;
 		}
 
 			.dropotron.level-0:before {
@@ -2541,6 +2546,10 @@
 
 		/* Basic */
 
+			#nav > ul > li {
+	            font-size: 14pt;
+            }
+
 			body, input, textarea, select {
 				font-size: 14pt;
 				line-height: 1.75em;
@@ -2568,6 +2577,10 @@
 	@media screen and (max-width: 1280px) {
 
 		/* Basic */
+
+			#nav > ul > li {
+            	font-size: 12pt;
+            }
 
 			body, input, textarea, select {
 				font-size: 12pt;
@@ -2615,6 +2628,10 @@
 	@media screen and (max-width: 840px) {
 
 		/* Basic */
+
+			#nav > ul > li {
+	            font-size: 13pt;
+            }
 
 			body, input, textarea, select {
 				font-size: 13pt;
@@ -3222,6 +3239,12 @@
 
 #fixed a{
 	padding:10px;
+	color:#fff;
+	font-size: 19px;
+}
+
+#fixed a:hover{
+	color:#337ab7;
 }
 
 .overlay {

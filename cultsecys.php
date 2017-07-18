@@ -5,34 +5,36 @@
 		<title>BRCA, IIT Delhi</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
         <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="assets/css/secys.css" />
         <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-        <!-- Bootstrap Core CSS -->
+        <link rel="stylesheet" href="assets/css/animations.css">
+         
+    <!-- Bootstrap Core CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-
-
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="assets/css/team.css" />
         <link rel="stylesheet" href="assets/css/animations.css">
 
-        <!-- Custom Fonts -->
-        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-        <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-        <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+    <!-- Custom CSS -->
+        <link rel="stylesheet" href="magnific-popup/magnific-popup.css">
 
-    
+    <!-- Custom Fonts -->
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
-    </head>
+	</head>
 	<body class="homepage">
 		<div id="page-wrapper">
 
@@ -55,20 +57,14 @@
 				</div>
 
 
-			 <section id="team" class="bg-light-gray" >	
+	<section id="team" class="bg-light-gray" >	
         <div class="container-fluid" id="move">
-
-
-
-           
-<div class="row">
+            <div class="row">
                 <div class="col-md-12 animatedParent animateOnce" data-appear-top-offset='-200'>
                     <div class="team-member animated fadeInUp">
                         <img src="images/cultsecys/rishabh.jpg" class="img-responsive img-circle" alt="">
                         <h4>Rishabh Nagpal</h4>
-
                         <p class="text-muted">General Secretary, BRCA</p>
-
                         <p class="text-muted no">+91-9650255230</p>   
                         <p class="text-muted email"><a href="mailto:rshnagpal8@gmail.com">rshnagpal8@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
@@ -97,8 +93,7 @@
                     <div class="team-member animated fadeInUp">
                         <img src="images/cultsecys/abhinav.jpg" class="img-responsive img-circle" alt="">
                         <h4>Abhinav Arora</h4>
-                        <p class="text-muted">Aravali</p>
-
+                        <p class="text-muted">Cultural Secretary, Aravali</p>
                         <p class="text-muted no1">+91-9540994440</p>
                         <p class="text-muted email1"><a href="mailto:abhinav211097@gmail.com">abhinav211097@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
@@ -123,7 +118,7 @@
                     <div class="team-member animated fadeInUp">
                         <img src="images/cultsecys/ayush.jpg" class="img-responsive img-circle" alt="">
                        <h4>Ayush Rai</h4>
-                        <p class="text-muted">Girnar</p>
+                        <p class="text-muted">Cultural Secretary, Girnar</p>
                         <p class="text-muted no2">+91-7210118992</p>
                         <p class="text-muted email2"><a href="mailto:ayushrai1114@gmail.com">ayushrai1114@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
@@ -156,7 +151,7 @@
                     <div class="team-member animated fadeInUp">
                         <img src="images/cultsecys/asmita.jpg" class="img-responsive img-circle" alt="">
                         <h4>Asmita Pahade</h4>
-                        <p class="text-muted">Himadri</p>
+                        <p class="text-muted">Cultural Secretary, Himadri</p>
 
                         <p class="text-muted no3">+91-8793047217</p>
                         <p class="text-muted email3"><a href="mailto:asmitapahade6@gmail.com">asmitapahade6@gmail.com</a></p>
@@ -182,7 +177,7 @@
                     <div class="team-member animated fadeInUp">
                         <img src="images/cultsecys/aditya.jpg" class="img-responsive img-circle" alt="">
                         <h4>Aditya Singhal</h4>
-                        <p class="text-muted">Jwalamukhi</p>
+                        <p class="text-muted">Cultural Secretary, Jwalamukhi</p>
 
                         <p class="text-muted no4">+91-9694458113</p>
                         <p class="text-muted email4"><a href="mailto:adi.singhal025@gmail.com">adi.singhal025@gmail.com</a></p>
@@ -206,7 +201,7 @@
                     <div class="team-member animated fadeInUp">
                         <img src="images/cultsecys/ayushi.jpg" class="img-responsive img-circle" alt="">
                         <h4>Ayushi Narula</h4>
-                        <p class="text-muted">Kailash</p>
+                        <p class="text-muted">Cultural Secretary, Kailash</p>
                         <p class="text-muted no5">+91-8527516270</p>
                         <p class="text-muted email5"><a href="mailto:ayushi1996narula@gmail.com">ayushi1996narula@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
@@ -230,7 +225,7 @@
                     <div class="team-member animated fadeInUp">
                         <img src="images/cultsecys/rahul.jpg" class="img-responsive img-circle" alt="">
                        <h4>Rahul Agarwal</h4>
-                        <p class="text-muted">Karakoram</p>
+                        <p class="text-muted">Cultural Secretary, Karakoram</p>
                         <p class="text-muted no6">+91-9810152268</p>
                         <p class="text-muted email6"><a href="mailto:agarwalrahulbhs@gmail.com">agarwalrahulbhs@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
@@ -254,7 +249,7 @@
                     <div class="team-member animated fadeInUp">
                         <img src="images/cultsecys/moulik.jpg" class="img-responsive img-circle" alt="">
                         <h4>Moulik Choraria</h4>
-                        <p class="text-muted">Kumaon</p>
+                        <p class="text-muted">Cultural Secretary, Kumaon</p>
 
                         <p class="text-muted no7">+91-9311157210</p>
                         <p class="text-muted email7"><a href="mailto:moulik.choraria@gmail.com">moulik.choraria@gmail.com</a></p>
@@ -280,7 +275,7 @@
                     <div class="team-member animated fadeInUp ">
                         <img src="images/cultsecys/jatin.jpg" class="img-responsive img-circle" alt="">
                          <h4>Jatin Bansal</h4>
-                        <p class="text-muted">Nilgiri</p>
+                        <p class="text-muted">Cultural Secretary, Nilgiri</p>
 
                         <p class="text-muted no8">+91-8510893989</p>
                         <p class="text-muted email8"><a href="mailto:bnsl.j3234@gmail.com">bnsl.j3234@gmail.com</a></p>
@@ -306,7 +301,7 @@
                     <div class="team-member animated fadeInUp">
                         <img src="images/cultsecys/mohit.jpg" class="img-responsive img-circle" alt="">
                         <h4>Mohit Agarwal</h4>
-                        <p class="text-muted">Satpura</p>
+                        <p class="text-muted">Cultural Secretary, Satpura</p>
 
                         <p class="text-muted no9">+91-9829532703</p>
                         <p class="text-muted email9"><a href="mailto:mohit.me662@gmail.com">mohit.me662@gmail.com</a></p>
@@ -332,7 +327,7 @@
                     <div class="team-member animated fadeInUp ">
                         <img src="images/cultsecys/rajat.jpg" class="img-responsive img-circle" alt="">
                        <h4>Rajat Yadav</h4>
-                        <p class="text-muted">Shivalik</p>
+                        <p class="text-muted">Cultural Secretary, Shivalik</p>
                         <p class="text-muted no10">+91-9958428270</p>
                         <p class="text-muted email10"><a href="mailto:rajatyadav5897@gmail.com">rajatyadav5897@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
@@ -355,7 +350,7 @@
                     <div class="team-member animated fadeInUp ">
                         <img src="images/cultsecys/rudraksh.jpg" class="img-responsive img-circle" alt="">
                        <h4>Rudraksh Gupta</h4>
-                        <p class="text-muted">Udaigiri</p>
+                        <p class="text-muted">Cultural Secretary, Udaigiri</p>
                         <p class="text-muted no11">+91-9893029651</p>
                         <p class="text-muted email11"><a href="mailto:rudrakshgupta.1998@gmail.com">rudrakshgupta.1998@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
@@ -376,7 +371,7 @@
                     <div class="team-member animated fadeInUp ">
                         <img src="images/cultsecys/chetan.jpg" class="img-responsive img-circle" alt="">
                        <h4>Chetan Sagare</h4>
-                        <p class="text-muted">Vindhyachal</p>
+                        <p class="text-muted">Cultural Secretary, Vindhyachal</p>
                         <p class="text-muted no12">+91-9560922280</p>
                         <p class="text-muted email12"><a href="mailto:chetansagare1@gmail.com">chetansagare1@gmail.com</a></p>
                         <ul class="list-inline social-buttons">
@@ -518,8 +513,9 @@
 
 
 
-
-<?php include ('footer.php');?>
+    <div id="foot"> 
+        <?php include ('footer.php');?>
+    </div>
 
 
 <!-- Adding the pop-ups for the Manifestos-->

@@ -5,6 +5,12 @@
 		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
@@ -25,12 +31,7 @@
     
         <!-- Custom Fonts -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-        <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-        <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
 
 		
 		
@@ -52,7 +53,7 @@
 			</div> 
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
+		    <a href="literary-events" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
 		    <a href="literaryteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
 		    <a href="https://drive.google.com/folderview?id=0B1vLhp0aiT7eflVqM1U3aWZURF8wQm0wZ3JVWFYyUUtTV0ZfQ0tzM1I5TWo4bmduTlZzWUE&usp=sharing" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
@@ -65,13 +66,14 @@
 			    </p>
 			</header>
 		</section>
-		<div id="rotating-pics" class="animatedParent animateOnce" data-sequence='700'>
+		<div id="dummy-id" class="animatedParent animateOnce" data-sequence='700'>
 		    <div id='ninja-slider' class="animated fadeIn slower" data-id='2'>
                 <ul>
-                    <li><div data-image="images/lit-images/li1.jpg"></div></li>
-                    <li><div data-image="images/lit-images/li2.jpg"></div></li>
-                    <li><div data-image="images/lit-images/li3.jpg"></div></li>
-                    <li><div data-image="images/lit-images/li4.jpg"></div></li>
+                    <li><div data-image="images/lit-images/1.jpg"></div></li>
+                    <li><div data-image="images/lit-images/2.jpg"></div></li>
+                    <li><div data-image="images/lit-images/3.jpg"></div></li>
+                    <li><div data-image="images/lit-images/4.jpg"></div></li>
+                    <li><div data-image="images/lit-images/5.jpg"></div></li>
                 </ul>
             </div>
 		</div>

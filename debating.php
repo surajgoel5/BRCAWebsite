@@ -5,6 +5,14 @@
 		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
@@ -25,12 +33,7 @@
     
         <!-- Custom Fonts -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-        <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-        <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
 
 		
 		
@@ -52,27 +55,26 @@
 			</div> 
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
+		    <a href="debating-events.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
 		    <a href="debatingteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
 		    <a href="https://drive.google.com/folderview?id=0B1vLhp0aiT7efm9kNEFqbjFjSGNtaGE5RjNydkttYmRUNmZyaGdNYXM0SDd3cTBydW9Lclk&usp=sharing" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
-			<header>
-			<!--Might have to change it-->				
+			<header>			
     			<p class="animated fadeIn slower" data-id='2'>
 				One of the most respected clubs in IIT Delhi, the Debating Society has a long standing tradition of excellence. With various events like Extempore, Parliamentary Debates, and MUNs, this club presents a plethora of opportunities for students. On the way, they also get to polish their communication skills, and gain self-confidence. The events are also known for their fun filled atmosphere. Though it may sound hard to believe, all you need to be a part of this club is a sincere interest.
 			    </p>
 			</header>
 		</section>
-		<div id="rotating-pics" class="animatedParent animateOnce" data-sequence='700'>
+		<div id="dummy-id" class="animatedParent animateOnce" data-sequence='700'>
 		    <div id='ninja-slider' class="animated fadeIn slower" data-id='2'>
                 <ul>
-                    <li><div data-image="images/debating-images/deb1.jpg"></div></li>
-                    <li><div data-image="images/debating-images/deb2.jpg"></div></li>
-                    <li><div data-image="images/debating-images/deb3.jpg"></div></li>
-                    <li><div data-image="images/debating-images/deb4.jpg"></div></li>
-                    <li><div data-image="images/debating-images/deb5.jpg"></div></li>
-                    <li><div data-image="images/debating-images/deb6.jpg"></div></li>
+                    <li><div data-image="images/debating-images/1.jpg"></div></li>
+                    <li><div data-image="images/debating-images/2.jpg"></div></li>
+                    <li><div data-image="images/debating-images/3.jpg"></div></li>
+                    <li><div data-image="images/debating-images/4.jpeg"></div></li>
+                    <li><div data-image="images/debating-images/5.jpg"></div></li>
+                    <li><div data-image="images/debating-images/6.jpeg"></div></li>
                 </ul>
             </div>
 		</div>

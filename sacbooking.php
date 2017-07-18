@@ -3,148 +3,54 @@
 <html>
 	<head>
 		<title>BRCA, IIT Delhi</title>
-
-
-
-
-    <!--ninjaVideoPlugin.js is required only when the slider contains videos, and its link should be placed before the ninja-slider.js link.-->
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-
-
-<link rel="stylesheet" href="assets/css/animations.css">
-
-<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/sacbooking.css" />
-		<link rel="stylesheet" href="magnific-popup/magnific-popup.css">
-		
-
-		
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+
+
+        <!-- Bootstrap Core CSS -->
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/animations.css">
+
+
+        <!-- Custom CSS -->
+     	<link rel="stylesheet" href="magnific-popup/magnific-popup.css">
+    
+        <!-- Custom Fonts -->
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
 		
 	</head>
 	<body class="homepage">
 		<div id="page-wrapper">
 
-			<!-- Header -->
-<div id="header" class="animatedParent animateOnce" data-sequence='700' >
-
-					<!-- Inner -->
-						
-<!--<section class="carousel">
-					<div class="reel">
-
-						<article>
-							<a id="enlarge" class="image featured " href="images/images-dance/idp.jpg"><img src="images/images-dance/idp.jpg" alt="" /></a>
-							<header>
-								<h4><a  >Committee Room</a></h4>
-
-							</header>
-							
-						</article>
-
-						<article>
-							<a   class="image featured"><img src=" images/images-dance/duo.jpg" alt="" /></a>
-							<header>
-								<h4><a  >VIP Room <br></a></h4>
-							</header>
-							
-						</article>
-
-						<article>
-							<a   class="image featured"><img src=" images/images-dance/freshers.jpg" alt="" /></a>
-							<header>
-								<h4><a  >GF Lobby</a></h4>
-							</header>
-							
-						</article>
-
-						<article>
-							<a   class="image featured"><img src=" images/images-dance/gd.jpg" alt="" /></a>
-							<header>
-								<h4><a  >FF Lobby</a></h4>
-							</header>
-							
-						</article>
-
-						<article>
-							<a   class="image featured"><img src=" images/images-dance/dj.jpg" alt="" /></a>
-							<header>
-								<h4><a  >Terrace</a></h4>
-							</header>
-							
-						</article>
-
-						<article>
-							<a   class="image featured"><img src=" images/images-dance/dj.jpg" alt="" /></a>
-							<header>
-								<h4 ><a >Back Lawn</a></h4>
-							</header>
-							
-						</article>
-
-						<article>
-							<a   class="image featured"><img src=" images/images-dance/dj.jpg" alt="" /></a>
-							<header>
-								<h4 ><a >Side Lawn</a></h4>
-							</header>
-							
-						</article>
-
-						<article>
-							<a   class="image featured"><img src=" images/images-dance/dj.jpg" alt="" /></a>
-							<header>
-								<h4 ><a >OAT Lawn</a></h4>
-							</header>
-							
-						</article>
-							<article>
-							<a   class="image featured"><img src=" images/images-dance/dj.jpg" alt="" /></a>
-							<header>
-								<h4 ><a >OAT </a></h4>
-							</header>
-							
-						</article>
-
-
-
-
-					
-
-						
-
-						
-
-					</div>
-				</section>-->
-
-<section class="color-4">
-				<nav class="cl-effect-14">
-					<a href="#test-popup1" class="open-popup-link" >Criteria and Conditions</a>
-					<a href="#test-popup2" class="open-popup-link">Rent Charges</a>
-					<a href="#test-popup3" class="open-popup-link">Availability Calender</a>
-					<a href="#test-popup5" class="open-popup-link">Booking Process</a>
-					<a href="#test-popup4" class="open-popup-link">Online Booking Form</a>
-				</nav>
-			</section>
-
-
-					<!-- Nav -->
-						
-<?php include 'menu.php';?>
-</div>
-
-</div>
-						
-			
-				
-
-<?php include ('footer.php');?>
-</div>
+		<!-- Header -->
+			<div id="header">
+			<!-- Inner -->
+				<section class="color-4">
+					<nav class="cl-effect-14">
+						<a href="#test-popup1" class="open-popup-link" >Criteria and Conditions</a>
+						<a href="#test-popup2" class="open-popup-link">Rent Charges</a>
+						<a href="#test-popup3" class="open-popup-link">Availability Calender</a>
+						<a href="#test-popup5" class="open-popup-link">Booking Process</a>
+						<a href="#test-popup4" class="open-popup-link">Online Booking Form</a>
+					</nav>
+				</section>
+				<!-- Nav -->		
+					<?php include 'menu.php';?>
+			</div>
+		</div>
+		<?php include ('footer.php');?>
+	</div>
     
     
   				
@@ -185,7 +91,7 @@
 
 
  
-    <iframe id="test-popup2" class="mfp-hide"  src="https://docs.google.com/spreadsheets/d/1YA5-QGzKbfIdqWD7sCIB1eyu4ZFSghvWzMe18BI312Q/pubhtml?gid=0&single=true" style=" border-width:0 " width="1125" height="165" frameborder="0" scrolling="yes"></iframe>
+    <iframe id="test-popup2" class="mfp-hide"  src="https://docs.google.com/spreadsheets/d/1YA5-QGzKbfIdqWD7sCIB1eyu4ZFSghvWzMe18BI312Q/pubhtml?gid=0&single=true" style=" border-width:0 " width="1125" height="600" frameborder="0" scrolling="yes"></iframe>
 
 
 

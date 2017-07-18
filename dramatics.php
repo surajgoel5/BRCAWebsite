@@ -5,6 +5,12 @@
 		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
@@ -25,12 +31,7 @@
     
         <!-- Custom Fonts -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-        <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-        <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
 
 		
 		
@@ -52,25 +53,27 @@
 			</div> 
 		</div>
 		<div id="buttons" class="animatedParent animateOnce" data-sequence='700'>
-		    <a href="#" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
+		    <a href="dramatics-events.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>EVENTS</a>
 		    <a href="dramaticsteam.php" class="btn btn-default customize animated fadeIn slower" data-id='1'>TEAM</a>
 		    <a href="https://drive.google.com/folderview?id=0B1vLhp0aiT7eflpyaXZOZnZIcHRLNUEzNnBRbkFxYkszOFdSejFEczJfUzU4aUpOYTQwQ1k&usp=sharing" target="blank" class="btn btn-default customize animated fadeIn slower" data-id='1'>ARCHIVES</a>
 		</div>
         <section id="banner" class="animatedParent animateOnce" data-sequence='700'>
 			<header>	
-			<!--Might have to change it-->			
+			<!--Updated-->			
     			<p class="animated fadeIn slower" data-id='2'>
-				Gone are the days when you heard the famous “drama mat kar” from Mom and Dad when you got a little light headed and started play-acting for fun. You now are at a place where the bigger a dramebaaz you are, the more you’re appreciated. The Dramatics Club presents a bunch of amazing events round the year, from stage and street performances to mimes and comedy acts that entertain the junta thoroughly.
+				The Dramatics Club IITD is more like a family than just a club. It gives you the freedom of being whoever you want to be. Discover the craziest person in you, and not only get appreciated but also encouraged . Participate in a bunch of amazing events round the year, from stage and street performances to mimes and comedy acts, leaving behind all the stage fear in you and become an amazing outspoken individual you always dreamt of.
 			    </p>
 			</header>
 		</section>
-		<div id="rotating-pics" class="animatedParent animateOnce" data-sequence='700'>
+		<div id="dummy-id" class="animatedParent animateOnce" data-sequence='700'>
 		    <div id='ninja-slider' class="animated fadeIn slower" data-id='2'>
                 <ul>
-                    <li><div data-image="images/dramatics-images/dra3.jpg"></div></li>
-                    <li><div data-image="images/dramatics-images/dra2.jpg"></div></li>
-                    <li><div data-image="images/dramatics-images/dra4.jpg"></div></li>
-                    <li><div data-image="images/dramatics-images/dra1.jpg"></div></li>
+                    <li><div data-image="images/dramatics-images/1.jpg"></div></li>
+                    <li><div data-image="images/dramatics-images/2.jpg"></div></li>
+                    <li><div data-image="images/dramatics-images/3.jpg"></div></li>
+                    <li><div data-image="images/dramatics-images/4.jpg"></div></li>
+                    <li><div data-image="images/dramatics-images/5.jpg"></div></li>
+                    <li><div data-image="images/dramatics-images/6.jpg"></div></li>
                 </ul>
             </div>
 		</div>

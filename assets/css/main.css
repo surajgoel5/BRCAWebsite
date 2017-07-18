@@ -1549,7 +1549,7 @@
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Amethysta', serif!important;
 		font-weight: 300;
 	}
 
@@ -2338,6 +2338,31 @@
 		color:#303030;
 	}
 
+	/*description*/
+	#description{
+		vertical-align: top;
+		/*Didn't get any other way to fix the weird gap between .carousel and #description*/
+		/*So I am using negative margin!*/
+		margin-top:-40px; 
+	}
+
+	#description h1{
+		font-size: 40px;
+	}
+
+	#description p{
+		width: 80%;
+		margin-left: 10%;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		text-align: justify;
+		font-size: 16px;
+	}
+
+	#description h1{
+		text-align: center;
+	}
+
 /* Navigation buttons */
 
     #buttons{
@@ -2445,10 +2470,24 @@
 /* Carousel */
 
 	.carousel {
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 16px;
 		position: relative;
 		overflow: hidden;
 		padding: 2em 0 2em 0;
 		margin-bottom: 0;
+	}
+
+	.carousel h6{
+		font-size: 18px;
+	}
+
+	.carousel p{
+		font-size: 16px;
+	}
+
+	.carousel a{
+		text-decoration: none!important;
 	}
 
 		.carousel .forward, .carousel .backward {
@@ -2575,10 +2614,16 @@
 				line-height: 1.75em;
 			}
 
+		/* Navigation buttons */
+
+		    #buttons > a{
+    	        font-size: 16px;
+            }
+
 		/* Carousel */
 
 			.carousel {
-				padding: 1.5em 0 1.5em 0;
+				padding: 1.5em 0 0em 0;
 			}
 
 				.carousel .reel {
@@ -2589,9 +2634,27 @@
 					width: 18em;
 					margin: 0 1.25em 0 0;
 				}
+
+				.carousel h6{
+					font-size: 18px;
+				}
+
+				.carousel p{
+		            font-size: 16px;
+	            }
+
 	    /* Banner */
 	        #banner header > p{
-	        	font-size: 16px;
+	        	font-size: 18px;
+	        }
+
+	    /*Description*/
+
+	        #description p{
+	        	font-size: 18px;
+	        }
+	        #description h1{
+		        font-size: 40px;
 	        }
 	}
 
@@ -2627,6 +2690,22 @@
 					padding-right: 2em;
 				}
 
+		/* Navigation buttons */
+
+		    #buttons > a{
+    	        font-size: 14px;
+            }
+
+		/*Carousel*/
+
+		    .carousel h6{
+				font-size: 16px;
+			}
+
+				.carousel p{
+		            font-size: 14px;
+	            }
+
 		/* Banner */
 
 			#banner {
@@ -2643,8 +2722,17 @@
 
 		/* Banner */
 	        #banner header > p{
-	        	font-size: 14px;
+	        	font-size: 16px;
 	        }
+	    /*Description*/
+
+	        #description p{
+	        	font-size: 16px;
+	        }
+	        #description h1{
+		        font-size: 40px;
+	        }
+
 
 	}
 
@@ -2680,10 +2768,16 @@
 				padding: 4em 2em 4em 2em;
 			}
 
+		/* Navigation buttons */
+
+		    #buttons > a{
+    	        font-size: 14px;
+            }
+
 		/* Carousel */
 
 			.carousel {
-				padding: 1.25em 0 1.25em 0;
+				padding: 1.25em 0 0 0;
 			}
 
 				.carousel article {
@@ -2691,9 +2785,25 @@
 					margin: 0 1em 0 0;
 				}
 
+		        .carousel h6{
+					font-size: 16px;
+				}
+
+				.carousel p{
+		            font-size: 14px;
+	            }
+
 	    /* Banner */
 	        #banner header > p{
-	        	font-size: 14px;
+	        	font-size: 16px;
+	        }
+	    /*Description*/
+
+	        #description p{
+	        	font-size: 16px;
+	        }
+	        #description h1{
+		        font-size: 40px;
 	        }
 
 	}
@@ -2748,9 +2858,33 @@
 				font-size: 1.25em;
 			}
 
+			/* Navigation buttons */
+
+		    #buttons > a{
+    	        font-size: 12px;
+            }
+
+			/*Carousel*/
+		    .carousel h6{
+	    		font-size: 14px;
+			}
+
+			.carousel p{
+		        font-size: 14px;
+	        }
+
 			/* Banner */
 	        #banner header > p{
-	        	font-size: 12px;
+	        	font-size: 14px;
+	        }
+
+	        /*Description*/
+
+	        #description p{
+	        	font-size: 14px;
+	        }
+	        #description h1{
+		        font-size: 30px;
 	        }
 
 		/* Image */
@@ -2858,7 +2992,7 @@
 				padding-bottom: 1px;
 			}
 
-			#rotating-pics{
+			#dummy-id{
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -3042,7 +3176,7 @@
 				transform: translateY(50vh);
 			}
 
-			body.navPanel-visible #rotating-pics{
+			body.navPanel-visible #dummy-id{
 				-moz-transform: translateY(50vh);
 				-webkit-transform: translateY(50vh);
 				-ms-transform: translateY(50vh);
@@ -3150,7 +3284,7 @@
 		/* Carousel */
 
 			.carousel {
-				padding: 0.5em 0 0.5em 0;
+				padding: 0.5em 0 0 0;
 			}
 
 				.carousel .reel {
@@ -3186,7 +3320,9 @@
     .bann li { list-style: none; }
         .bann ul li { float: left; }
 
-#rotating-pics{
+/*dummy-id. It's sole purpose is to falicitate making Mobile version easier.*/
+
+#dummy-id{
 	margin-bottom: 20px;
 }
 

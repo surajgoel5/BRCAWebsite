@@ -2,29 +2,32 @@
 
 <html>
 	<head>
-		<title>BRCA,IITDelhi</title>
-
-
-
-
-    <!--ninjaVideoPlugin.js is required only when the slider contains videos, and its link should be placed before the ninja-slider.js link.-->
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-
-
-<link rel="stylesheet" href="assets/css/animations.css">
-
-<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
+		<title>BRCA, IIT Delhi</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="apple-touch-icon" sizes="180x180" href="favicons1/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicons1/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicons1/favicon-16x16.png">
+        <link rel="manifest" href="favicons1/manifest.json">
+        <link rel="mask-icon" href="favicons1/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/sacbooking.css" />
-		<link rel="stylesheet" href="magnific-popup/magnific-popup.css">
-		
-
-		
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+
+
+        <!-- Bootstrap Core CSS -->
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/animations.css">
+
+
+        <!-- Custom CSS -->
+     	<link rel="stylesheet" href="magnific-popup/magnific-popup.css">
+    
+        <!-- Custom Fonts -->
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Amethysta" rel="stylesheet">
 		
 	</head>
 	<body class="homepage">

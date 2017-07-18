@@ -219,7 +219,7 @@
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Amethysta', serif!important;
 		font-weight: 300;
 	}
 
@@ -692,9 +692,9 @@ input[type="button"],
 
 /* Nav */
 
-	#nav {
+#nav {
 		position: absolute;
-		top: 0;
+		top: 14px;
 		left: 0;
 		width: 100%;
 		text-align: center;
@@ -796,15 +796,21 @@ input[type="button"],
 				display: block;
 				border: 0;
 				padding: 0.5em 0 0.5em 0;
+				color: #5b5b5b;
+				text-decoration: none;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
 				transition: color 0.35s ease-in-out;
 			}
 
+			.dropotron li a:hover{
+				color: #337ab7;
+			}
+
 		.dropotron.level-0 {
 			margin-top: 2em;
-			font-size: 0.9em;
+			font-size: 1.15em;
 		}
 
 			.dropotron.level-0:before {
@@ -877,7 +883,7 @@ input[type="button"],
 	#footer {
 		position: relative;
 		overflow: hidden;
-		
+		padding: 6em 0 6em 0;
 		background: #2b252c;
 		color: #fff;
 	}
@@ -932,6 +938,10 @@ input[type="button"],
 				line-height: 1.75em;
 			}
 
+			#nav > ul > li {
+	            font-size: 14pt;
+            }
+
 		
 	}
 
@@ -945,6 +955,10 @@ input[type="button"],
 				font-size: 12pt;
 				line-height: 1.5em;
 			}
+
+			#nav > ul > li {
+	            font-size: 12pt;
+            }
 
 		/* Wrapper */
 
@@ -993,6 +1007,10 @@ input[type="button"],
 				line-height: 1.65em;
 			}
 
+			#nav > ul > li {
+	            font-size: 13pt;
+            }
+
 			.tweet {
 				text-align: center;
 			}
@@ -1034,6 +1052,7 @@ input[type="button"],
 			html, body {
 				overflow-x: hidden;
 			}
+
 
 			body, input, textarea, select {
 				font-size: 12.5pt;
@@ -1400,7 +1419,7 @@ input[type="button"],
         max-width: calc(100vw + 1px) !important;   
         margin: -10px -140px;}
     .iframe-wrapper { 
-        width:100vw; 
+        width:100%; 
         overflow: hidden; 
         margin: 0 -15px;}
 
@@ -1425,6 +1444,11 @@ input[type="button"],
         }
         .footerleft a{
         	padding:13px;
+     		color:#fff;
+        	font-size: 20px;
+        }
+        .footerleft a:hover{
+        	color:rgb(255,0,0,.4);
         }
 
         .footerright{

@@ -1,21 +1,23 @@
 /* Visit http://www.menucool.com/responsive-slider for instructions */
 
-#ninja-slider
+/* Added 10 extra slider ids to accomodate the Event sliders. Each new id is for form - slider-id+'i', 1<=i<=10*/
+
+#ninja-slider, #ninja-slider1, #ninja-slider2, #ninja-slider3, #ninja-slider4, #ninja-slider5, #ninja-slider6, #ninja-slider7, #ninja-slider8, #ninja-slider9, #ninja-slider10
 {
     width:100%;
     margin:0 auto; /*center aligned*/
-    background:rgba(34, 34, 34, 0.3)
+    background:rgba(34, 34, 34, 0.1)
 
 
 }
-#ninja-slider > ul
+#ninja-slider > ul, #ninja-slider1 > ul, #ninja-slider2 > ul, #ninja-slider3 > ul, #ninja-slider4 > ul, #ninja-slider5 > ul, #ninja-slider6 > ul, #ninja-slider7 > ul, #ninja-slider8 > ul, #ninja-slider9 > ul, #ninja-slider10 > ul
 {
     padding:0;
     margin:0;
 }
 
 /* slide */
-#ninja-slider li > div, #ninja-slider li > a
+#ninja-slider li > div, #ninja-slider li > a, #ninja-slider1 li > div, #ninja-slider1 li > a, #ninja-slider2 li > div, #ninja-slider2 li > a, #ninja-slider3 li > div, #ninja-slider3 li > a, #ninja-slider4 li > div, #ninja-slider4 li > a, #ninja-slider5 li > div, #ninja-slider5 li > a, #ninja-slider6 li > div, #ninja-slider6 li > a, #ninja-slider7 li > div, #ninja-slider7 li > a, #ninja-slider8 li > div, #ninja-slider8 li > a, #ninja-slider9 li > div, #ninja-slider9 li > a, #ninja-slider10 li > div, #ninja-slider10 li > a
 {
     max-width:960px;
     margin:0 auto; /* center each slide */
@@ -28,13 +30,13 @@
 }
 
 /* loading image indicator */    
-#ninja-slider div.preload 
+#ninja-slider div.preload, #ninja-slider1 div.preload, #ninja-slider2 div.preload, #ninja-slider3 div.preload, #ninja-slider4 div.preload, #ninja-slider5 div.preload, #ninja-slider6 div.preload, #ninja-slider7 div.preload, #ninja-slider8 div.preload, #ninja-slider9 div.preload, #ninja-slider10 div.preload          
 {
     background: black url(loading.gif) no-repeat center center;
 }
 
 /*----- video -----*/
-#ninja-slider a.video 
+#ninja-slider a.video, #ninja-slider1 a.video, #ninja-slider2 a.video, #ninja-slider3 a.video, #ninja-slider4 a.video, #ninja-slider5 a.video, #ninja-slider6 a.video, #ninja-slider7 a.video, #ninja-slider8 a.video, #ninja-slider9 a.video, #ninja-slider10 a.video
 {
 	position:absolute;
     border:0;top:0;left:0;
@@ -45,7 +47,7 @@
   
 /*------ pager ------*/      
 /* The pager id should be: slider id + "-pager" */    
-#ninja-slider-pager
+#ninja-slider-pager, #ninja-slider1-pager, #ninja-slider2-pager, #ninja-slider3-pager, #ninja-slider4-pager, #ninja-slider5-pager, #ninja-slider6-pager, #ninja-slider7-pager, #ninja-slider8-pager, #ninja-slider9-pager, #ninja-slider10-pager
 {
     padding-top:12px; /* set the distance away from the slider */
     margin:0 auto; /* center align */
@@ -54,7 +56,7 @@
     font-size:0;
 }
          
-#ninja-slider-pager a 
+#ninja-slider-pager a, #ninja-slider1-pager a, #ninja-slider2-pager a, #ninja-slider3-pager a, #ninja-slider4-pager a, #ninja-slider5-pager a, #ninja-slider6-pager a, #ninja-slider7-pager a, #ninja-slider8-pager a, #ninja-slider9-pager a, #ninja-slider10-pager a
 {
     display:inline-block;
     width: 10px;
@@ -66,11 +68,11 @@
     border-radius:10px;
     box-shadow:inset 0 1px 3px #666666;
 }
-#ninja-slider-pager a:hover 
+#ninja-slider-pager a:hover, #ninja-slider1-pager a:hover, #ninja-slider2-pager a:hover, #ninja-slider3-pager a:hover, #ninja-slider4-pager a:hover, #ninja-slider5-pager a:hover, #ninja-slider6-pager a:hover, #ninja-slider7-pager a:hover, #ninja-slider8-pager a:hover, #ninja-slider9-pager a:hover, #ninja-slider10-pager a:hover
 {
     opacity:0.6;
 }
-#ninja-slider-pager a.active 
+#ninja-slider-pager a.active, #ninja-slider1-pager a.active, #ninja-slider2-pager a.active, #ninja-slider3-pager a.active, #ninja-slider4-pager a.active, #ninja-slider5-pager a.active, #ninja-slider6-pager a.active, #ninja-slider7-pager a.active, #ninja-slider8-pager a.active, #ninja-slider9-pager a.active, #ninja-slider10-pager a.active
 {
     background-color:#1293dc;
     box-shadow:inset 0 1px 3px -1px #28b4ea,0 1px 1px rgba(0,0,0,.5);
@@ -79,7 +81,7 @@
  
 /* --------- navigation controls ------- */   
 /* The nav id should be: slider id + ("-prev", "-next", and "-pause-play") */    
-#ninja-slider-prev, #ninja-slider-next
+#ninja-slider-prev, #ninja-slider-next, #ninja-slider1-prev, #ninja-slider1-next, #ninja-slider2-prev, #ninja-slider2-next, #ninja-slider3-prev, #ninja-slider3-next, #ninja-slider4-prev, #ninja-slider4-next, #ninja-slider5-prev, #ninja-slider5-next, #ninja-slider6-prev, #ninja-slider6-next, #ninja-slider7-prev, #ninja-slider7-next, #ninja-slider8-prev, #ninja-slider8-next, #ninja-slider9-prev, #ninja-slider9-next, #ninja-slider10-prev, #ninja-slider10-next
 {
     position: absolute;
     top: 40%;
@@ -94,48 +96,66 @@
     line-height:50px;
     color:white;
     overflow:hidden;
-    
     font-size:13px;
 }
-#ninja-slider-prev {
+#ninja-slider-prev, #ninja-slider1-prev, #ninja-slider2-prev, #ninja-slider3-prev, #ninja-slider4-prev, #ninja-slider5-prev, #ninja-slider6-prev, #ninja-slider7-prev, #ninja-slider8-prev, #ninja-slider9-prev, #ninja-slider10-prev 
+{
     left: 0;
     border-radius:0 4px 4px 0;
     background-position:0 0;
 }
 
-#ninja-slider-next {
+#ninja-slider-next, #ninja-slider1-next, #ninja-slider2-next, #ninja-slider3-next, #ninja-slider4-next, #ninja-slider5-next, #ninja-slider6-next, #ninja-slider7-next, #ninja-slider8-next, #ninja-slider9-next, #ninja-slider10-next 
+{
     right: 0;
     border-radius:4px 0 0 4px;
     background-position:100% -60px;
 }
 
-#ninja-slider-prev:hover, #ninja-slider-next:hover {width:100px;}
+#ninja-slider-prev:hover, #ninja-slider-next:hover, #ninja-slider1-prev:hover, #ninja-slider1-next:hover, #ninja-slider2-prev:hover, #ninja-slider2-next:hover, #ninja-slider3-prev:hover, #ninja-slider3-next:hover, #ninja-slider4-prev:hover, #ninja-slider4-next:hover, #ninja-slider5-prev:hover, #ninja-slider5-next:hover, #ninja-slider6-prev:hover, #ninja-slider6-next:hover, #ninja-slider7-prev:hover, #ninja-slider7-next:hover, #ninja-slider8-prev:hover, #ninja-slider8-next:hover, #ninja-slider9-prev:hover, #ninja-slider9-next:hover, #ninja-slider10-prev:hover, #ninja-slider10-next:hover
+{
+    width:100px;
+}
 
 /*pagination within the prev/next buttons*/
-#ninja-slider-prev div {margin-left:60px;white-space:nowrap;}
-#ninja-slider-next div {float:right;margin-right:60px;white-space:nowrap;}
+#ninja-slider-prev div, #ninja-slider1-prev div, #ninja-slider2-prev div, #ninja-slider3-prev div, #ninja-slider4-prev div, #ninja-slider5-prev div, #ninja-slider6-prev div, #ninja-slider7-prev div, #ninja-slider8-prev div, #ninja-slider9-prev div, #ninja-slider10-prev div
+{
+    margin-left:60px;white-space:nowrap;
+}
+#ninja-slider-next div, #ninja-slider1-next div, #ninja-slider2-next div, #ninja-slider3-next div, #ninja-slider4-next div, #ninja-slider5-next div, #ninja-slider6-next div, #ninja-slider7-next div, #ninja-slider8-next div, #ninja-slider9-next div, #ninja-slider10-next div
+{
+    float:right;margin-right:60px;white-space:nowrap;
+}
 
 
-#ninja-slider-pause-play { display:none;}
+#ninja-slider-pause-play, #ninja-slider1-pause-play, #ninja-slider2-pause-play, #ninja-slider3-pause-play, #ninja-slider4-pause-play, #ninja-slider5-pause-play, #ninja-slider6-pause-play, #ninja-slider7-pause-play, #ninja-slider8-pause-play, #ninja-slider9-pause-play, #ninja-slider10-pause-play
+{ 
+    display:none;
+}
 
 /* Other settings
 -------------------------------------------- */   
-#ninja-slider h2 {
+#ninja-slider h2, #ninja-slider1 h2, #ninja-slider2 h2, #ninja-slider3 h2, #ninja-slider4 h2, #ninja-slider5 h2, #ninja-slider6 h2, #ninja-slider7 h2, #ninja-slider8 h2, #ninja-slider9 h2, #ninja-slider10 h2 
+{
     position:absolute;font-size:110px;width:100%;font-family:Arial;font-weight:bold;top:30%;text-align:center;color:#FFF;
 }
 
-#ninja-slider h3 {
+#ninja-slider h3, #ninja-slider1 h2, #ninja-slider2 h3, #ninja-slider3 h3, #ninja-slider4 h3, #ninja-slider5 h3, #ninja-slider6 h3, #ninja-slider7 h3, #ninja-slider8 h3, #ninja-slider9 h3, #ninja-slider10 h3  
+{
     position:absolute;font-size:30px;width:100%;font-family:Arial;font-weight:lighter;top:30%;text-align:center;color:#FFF;padding-top:180px;
 }
 
 /*styles for mobile*/
-@media only screen and (max-width: 600px) { 
-    #ninja-slider h2 {
+@media only screen and (max-width: 600px) 
+{ 
+    #ninja-slider h2, #ninja-slider1 h2, #ninja-slider2 h2, #ninja-slider3 h2, #ninja-slider4 h2, #ninja-slider5 h2, #ninja-slider6 h2, #ninja-slider7 h2, #ninja-slider8 h2, #ninja-slider9 h2, #ninja-slider10 h2  
+    {
         top:22%;
         font-size:40px;
     }
 
-    #ninja-slider h3 {
+    #ninja-slider h3, #ninja-slider1 h2, #ninja-slider2 h3, #ninja-slider3 h3, #ninja-slider4 h3, #ninja-slider5 h3, #ninja-slider6 h3, #ninja-slider7 h3, #ninja-slider8 h3, #ninja-slider9 h3, #ninja-slider10 h3   
+    {
         top:22%;
         font-size:20px;
         padding-top:60px;
@@ -144,7 +164,7 @@
 
 /* Usually you don't need to change the following settings
 ---------------------------------------------------------- */
-#ninja-slider > ul
+#ninja-slider > ul, #ninja-slider1 > ul, #ninja-slider2 > ul, #ninja-slider3 > ul, #ninja-slider4 > ul, #ninja-slider5 > ul, #ninja-slider6 > ul, #ninja-slider7 > ul, #ninja-slider8 > ul, #ninja-slider9 > ul, #ninja-slider10 > ul
 {
     -webkit-backface-visibility: hidden;
     -webkit-perspective: 1000px;
@@ -153,7 +173,9 @@
     -webkit-tap-highlight-color: transparent;
 }
 
-#ninja-slider-pager, #ninja-slider-prev, #ninja-slider-next, #ninja-slider-pause-play
+#ninja-slider-pager, #ninja-slider1-pager, #ninja-slider2-pager, #ninja-slider3-pager, #ninja-slider4-pager, #ninja-slider5-pager, #ninja-slider6-pager, #ninja-slider7-pager, #ninja-slider8-pager, #ninja-slider9-pager, #ninja-slider10-pager,
+#ninja-slider-prev, #ninja-slider-next, #ninja-slider1-prev, #ninja-slider1-next, #ninja-slider2-prev, #ninja-slider2-next, #ninja-slider3-prev, #ninja-slider3-next, #ninja-slider4-prev, #ninja-slider4-next, #ninja-slider5-prev, #ninja-slider5-next, #ninja-slider6-prev, #ninja-slider6-next, #ninja-slider7-prev, #ninja-slider7-next, #ninja-slider8-prev, #ninja-slider8-next, #ninja-slider9-prev, #ninja-slider9-next, #ninja-slider10-prev, #ninja-slider10-next,
+#ninja-slider-pause-play, #ninja-slider1-pause-play, #ninja-slider2-pause-play, #ninja-slider3-pause-play, #ninja-slider4-pause-play, #ninja-slider5-pause-play, #ninja-slider6-pause-play, #ninja-slider7-pause-play, #ninja-slider8-pause-play, #ninja-slider9-pause-play, #ninja-slider10-pause-play
 {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -161,14 +183,15 @@
     -ms-user-select: none;
 }
 
-#ninja-slider
+#ninja-slider, #ninja-slider1, #ninja-slider2, #ninja-slider3, #ninja-slider4, #ninja-slider5, #ninja-slider6, #ninja-slider7, #ninja-slider8, #ninja-slider9, #ninja-slider10
 {
     position: relative;
     overflow: hidden;
     /*visibility: hidden;*/
     padding:0;
 }
-#ninja-slider > ul
+
+#ninja-slider > ul, #ninja-slider1 > ul, #ninja-slider2 > ul, #ninja-slider3 > ul, #ninja-slider4 > ul, #ninja-slider5 > ul, #ninja-slider6 > ul, #ninja-slider7 > ul, #ninja-slider8 > ul, #ninja-slider9 > ul, #ninja-slider10 > ul
 {
     overflow: hidden;
     position: relative;
@@ -176,7 +199,7 @@
     margin:0;
 }
 
-#ninja-slider > ul > li
+#ninja-slider > ul > li, #ninja-slider1 > ul > li, #ninja-slider2 > ul > li, #ninja-slider3 > ul > li, #ninja-slider4 > ul > li, #ninja-slider5 > ul > li, #ninja-slider6 > ul > li, #ninja-slider7 > ul > li, #ninja-slider8 > ul > li, #ninja-slider9 > ul > li, #ninja-slider10 > ul > li
 {
     float: left;
     width: 100%;
@@ -185,5 +208,9 @@
     padding:0;margin:0;
 }
 
-#ninja-slider-prev, #ninja-slider-next, #ninja-slider-pause-play { display:none; }
+#ninja-slider-prev, #ninja-slider-next, #ninja-slider1-prev, #ninja-slider1-next, #ninja-slider2-prev, #ninja-slider2-next, #ninja-slider3-prev, #ninja-slider3-next, #ninja-slider4-prev, #ninja-slider4-next, #ninja-slider5-prev, #ninja-slider5-next, #ninja-slider6-prev, #ninja-slider6-next, #ninja-slider7-prev, #ninja-slider7-next, #ninja-slider8-prev, #ninja-slider8-next, #ninja-slider9-prev, #ninja-slider9-next, #ninja-slider10-prev, #ninja-slider10-next,
+#ninja-slider-pause-play, #ninja-slider1-pause-play, #ninja-slider2-pause-play, #ninja-slider3-pause-play, #ninja-slider4-pause-play, #ninja-slider5-pause-play, #ninja-slider6-pause-play, #ninja-slider7-pause-play, #ninja-slider8-pause-play, #ninja-slider9-pause-play, #ninja-slider10-pause-play
+{
+    display:none; 
+}
 
